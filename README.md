@@ -1,5 +1,6 @@
 <p align="center">
-![programming png](https://github.com/user-attachments/assets/90f0a4d0-fe72-4ef7-bb55-36ec60c5df6f)
+![alt promo]![programming png](https://github.com/user-attachments/assets/e210afda-f74e-4c1c-9e04-872fffa2b324)
+
 </p>
 
 # 🚀 Rania Guesmi - React Portfolio
