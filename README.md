@@ -6,6 +6,7 @@
 
 A modern, responsive portfolio built with **React** and **Bootstrap 5**, showcasing my experience as a **Web Developer (Backend & Frontend)**.
 
+<img width="1366" height="605" alt="Portfolio" src="https://github.com/user-attachments/assets/95df106c-c6c0-4f29-8ea0-681f03c00d04" />
 
 ## ✨ Key Features
 
