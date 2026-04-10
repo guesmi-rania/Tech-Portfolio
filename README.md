@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="docs/assets/logo-large.png" width="120">
+![6375787](https://github.com/user-attachments/assets/3da4a7f8-6690-4403-9d48-1f2910e657b8)
 </p>
 
 # 🚀 Rania Guesmi - React Portfolio
