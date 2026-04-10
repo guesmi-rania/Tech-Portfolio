@@ -1,9 +1,8 @@
 <p align="center">
-![alt promo]![programming png](https://github.com/user-attachments/assets/e210afda-f74e-4c1c-9e04-872fffa2b324)
-
+<img width="1366" height="605" alt="Portfolio" src="https://github.com/user-attachments/assets/87054999-5d71-47ec-9d9b-f5eb44dc4a16" />
 </p>
 
-# 🚀 Rania Guesmi - React Portfolio
+# 🚀 Rania Guesmi -My Portfolio
 
 A modern, responsive portfolio built with **React** and **Bootstrap 5**, showcasing my experience as a **Web Developer (Backend & Frontend)**.
 
