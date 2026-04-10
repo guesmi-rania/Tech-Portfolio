@@ -1,0 +1,900 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Skills",
+                "title_short_nav": "Skills",
+                "title_long_prefix": "Explore",
+                "title_long": "My {{Skill Set}}"
+            },
+            "es": {
+                "title_short": "Habilidades",
+                "title_short_nav": "Habilidades",
+                "title_long_prefix": "Explora",
+                "title_long": "Mis {{Habilidades}}"
+            },
+            "fr": {
+                "title_short": "Capacités",
+                "title_short_nav": "Capacités",
+                "title_long_prefix": "Explorez",
+                "title_long": "Mes {{Compétences}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleCards",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-solid fa-table-columns",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "date": {"year": null, "month": null},
+                    "link": {"href": "", "tooltipString": ""},
+                    "locales": {
+                        "en": {
+                            "title": "{{Website}} Design",
+                            "text": "I can bring your best ideas into life and make them a reality!"
+                        },
+                        "es": {
+                            "title": "{{Diseño}} de Websites",
+                            "text": "¡Puedo hacer realidad tus mejores ideas!"
+                        },
+                        "fr": {
+                            "title": "{{Conception}} de Websites",
+                            "text": "Je peux donner vie à vos meilleures idées !"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "",
+                    "faIcon": "fa-solid fa-database",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "date": {"year": null, "month": null},
+                    "link": {"href": "", "tooltipString": ""},
+                    "locales": {
+                        "en": {
+                            "title": "{{Database}} Management",
+                            "text": "I can handle your data effectively and efficiently!"
+                        },
+                        "es": {
+                            "title": "Gestión de {{Bases de Datos}}",
+                            "text": "¡Puedo manejar sus datos de manera efectiva y eficiente!"
+                        },
+                        "fr": {
+                            "title": "Gestion de {{Bases de Données}}",
+                            "text": "Je peux gérer vos données de manière efficace et efficiente !"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "fa-solid fa-mobile-screen-button",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "date": {"year": null, "month": null},
+                    "link": {"href": "", "tooltipString": ""},
+                    "locales": {
+                        "en": {
+                            "title": "{{Mobile}} Development",
+                            "text": "I can build cross-platform mobile apps with Flutter and React Native!"
+                        },
+                        "es": {
+                            "title": "Desarrollo {{Mobile}}",
+                            "text": "¡Puedo crear aplicaciones móviles multiplataforma con Flutter y React Native!"
+                        },
+                        "fr": {
+                            "title": "Développement {{Mobile}}",
+                            "text": "Je peux créer des applications mobiles multiplateformes avec Flutter et React Native !"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "",
+                    "faIcon": "fa-solid fa-window-restore",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "date": {"year": null, "month": null},
+                    "link": {"href": "", "tooltipString": ""},
+                    "locales": {
+                        "en": {
+                            "title": "{{REST}} APIs",
+                            "text": "I can design and build robust API services!"
+                        },
+                        "es": {
+                            "title": "APIs {{REST}}",
+                            "text": "¡Puedo diseñar y construir servicios API robustos!"
+                        },
+                        "fr": {
+                            "title": "APIs {{REST}}",
+                            "text": "Je peux concevoir et créer des services API robustes !"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "",
+                    "faIcon": "fa-brands fa-wordpress",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "date": {"year": null, "month": null},
+                    "link": {"href": "", "tooltipString": ""},
+                    "locales": {
+                        "en": {
+                            "title": "{{CMS}} & E-Commerce",
+                            "text": "I can build and manage sites with WordPress, Prestashop and Shopify!"
+                        },
+                        "es": {
+                            "title": "{{CMS}} y E-Commerce",
+                            "text": "¡Puedo crear y gestionar sitios con WordPress, Prestashop y Shopify!"
+                        },
+                        "fr": {
+                            "title": "{{CMS}} & E-Commerce",
+                            "text": "Je peux créer et gérer des sites avec WordPress, Prestashop et Shopify !"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": "",
+                    "faIcon": "fa-solid fa-magnifying-glass-chart",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "date": {"year": null, "month": null},
+                    "link": {"href": "", "tooltipString": ""},
+                    "locales": {
+                        "en": {
+                            "title": "{{SEO}} Optimization",
+                            "text": "I can boost your website's visibility on search engines!"
+                        },
+                        "es": {
+                            "title": "Optimización {{SEO}}",
+                            "text": "¡Puedo mejorar la visibilidad de tu sitio web en los motores de búsqueda!"
+                        },
+                        "fr": {
+                            "title": "Optimisation {{SEO}}",
+                            "text": "Je peux améliorer la visibilité de votre site web sur les moteurs de recherche !"
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "img": "",
+                    "faIcon": "fa-solid fa-arrows-spin",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "date": {"year": null, "month": null},
+                    "link": {"href": "", "tooltipString": ""},
+                    "locales": {
+                        "en": {
+                            "title": "{{Agile}} Methodologies",
+                            "text": "I work efficiently using Agile and Scrum frameworks!"
+                        },
+                        "es": {
+                            "title": "Metodologías {{Agile}}",
+                            "text": "¡Trabajo eficientemente usando marcos Agile y Scrum!"
+                        },
+                        "fr": {
+                            "title": "Méthodologies {{Agile}}",
+                            "text": "Je travaille efficacement en utilisant les méthodes Agile et Scrum !"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Backend Stack"},
+                "es": {"title": "Stack de Backend"},
+                "fr": {"title": "Stack Backend"}
+            },
+            "settings": {
+                "max_items_per_row": 3,
+                "max_rows_collapse_threshold": 6,
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-brands fa-node-js",
+                    "faIconColors": {"bg": "", "fill": "#339933"},
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "Node.js / Express",
+                            "text": "Good experience building backend services and REST APIs using Node.js and Express.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Buena experiencia en el desarrollo de servicios backend y APIs REST con Node.js y Express."
+                        },
+                        "fr": {
+                            "text": "Bonne expérience dans le développement de services backend et d'API REST avec Node.js et Express."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "",
+                    "faIcon": "fa-brands fa-php",
+                    "faIconColors": {"bg": "", "fill": "#4F5B93"},
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "PHP 8",
+                            "text": "Strong understanding of PHP 8 for backend development and custom web solutions.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Sólido entendimiento de PHP 8 para el desarrollo backend y soluciones web personalizadas."
+                        },
+                        "fr": {
+                            "text": "Bonne maîtrise de PHP 8 pour le développement backend et les solutions web personnalisées."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "fa-solid fa-database",
+                    "faIconColors": {"bg": "", "fill": "#4479A1"},
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "MySQL",
+                            "text": "I can design, manage and optimize MySQL databases for performance and reliability.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Puedo diseñar, gestionar y optimizar bases de datos MySQL para rendimiento y fiabilidad."
+                        },
+                        "fr": {
+                            "text": "Je peux concevoir, gérer et optimiser les bases de données MySQL pour la performance et la fiabilité."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "",
+                    "faIcon": "fa-solid fa-server",
+                    "faIconColors": {"bg": "", "fill": "#47A248"},
+                    "percentage": 70,
+                    "locales": {
+                        "en": {
+                            "title": "MongoDB",
+                            "text": "Experience with MongoDB for NoSQL database design and management.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Experiencia con MongoDB para diseño y gestión de bases de datos NoSQL."
+                        },
+                        "fr": {
+                            "text": "Expérience avec MongoDB pour la conception et la gestion de bases de données NoSQL."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "",
+                    "faIcon": "fa-solid fa-circle-nodes",
+                    "faIconColors": {"bg": "", "fill": "#E535AB"},
+                    "percentage": 65,
+                    "locales": {
+                        "en": {
+                            "title": "GraphQL",
+                            "text": "Working knowledge of GraphQL for flexible and efficient API queries.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Conocimientos prácticos de GraphQL para consultas API flexibles y eficientes."
+                        },
+                        "fr": {
+                            "text": "Connaissance pratique de GraphQL pour des requêtes API flexibles et efficaces."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": "",
+                    "faIcon": "fa-brands fa-python",
+                    "faIconColors": {"bg": "", "fill": "#306998"},
+                    "percentage": 60,
+                    "locales": {
+                        "en": {
+                            "title": "Python",
+                            "text": "Working knowledge of Python for scripting and backend development.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Conocimientos prácticos de Python para scripting y desarrollo backend."
+                        },
+                        "fr": {
+                            "text": "Connaissance pratique de Python pour le scripting et le développement backend."
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "img": "",
+                    "faIcon": "fa-brands fa-docker",
+                    "faIconColors": {"bg": "", "fill": "#2496ED"},
+                    "percentage": 55,
+                    "locales": {
+                        "en": {
+                            "title": "Docker",
+                            "text": "Working knowledge of Docker for containerization and deployment.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Conocimientos prácticos de Docker para la contenedorización y el despliegue."
+                        },
+                        "fr": {
+                            "text": "Connaissance pratique de Docker pour la conteneurisation et le déploiement."
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "img": "",
+                    "faIcon": "fa-brands fa-git-alt",
+                    "faIconColors": {"bg": "", "fill": "#F05032"},
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "Git / GitHub",
+                            "text": "Complete understanding of Git for version control and team collaboration.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Comprensión completa de Git para control de versiones y colaboración en equipo."
+                        },
+                        "fr": {
+                            "text": "Compréhension complète de Git pour le contrôle de version et la collaboration en équipe."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 3,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Frontend Stack"},
+                "es": {"title": "Stack de Frontend"},
+                "fr": {"title": "Stack Frontend"}
+            },
+            "settings": {
+                "max_items_per_row": 3,
+                "max_rows_collapse_threshold": 6,
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-brands fa-html5",
+                    "faIconColors": {"bg": "", "fill": "#E34F26"},
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "HTML 5",
+                            "text": "Strong understanding of semantic HTML for building well-structured web pages.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Buen conocimiento de HTML semántico para construir páginas web bien estructuradas."
+                        },
+                        "fr": {
+                            "text": "Bonne maîtrise du HTML sémantique pour créer des pages web bien structurées."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "",
+                    "faIcon": "fa-brands fa-css3-alt",
+                    "faIconColors": {"bg": "", "fill": "#1572B6"},
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "CSS 3 / Tailwind",
+                            "text": "I can create responsive and visually appealing designs using CSS3 and Tailwind CSS.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Puedo crear diseños receptivos y visualmente atractivos con CSS3 y Tailwind CSS."
+                        },
+                        "fr": {
+                            "text": "Je peux créer des designs réactifs et visuellement attrayants avec CSS3 et Tailwind CSS."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "fa-brands fa-js",
+                    "faIconColors": {"bg": "", "fill": "#F7DF1E", "fillLight": "#a69617"},
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "JavaScript ES6+",
+                            "text": "Mastered JavaScript ES6+ for dynamic and interactive web applications.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Dominio de JavaScript ES6+ para aplicaciones web dinámicas e interactivas."
+                        },
+                        "fr": {
+                            "text": "Maîtrise de JavaScript ES6+ pour des applications web dynamiques et interactives."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "",
+                    "faIcon": "fa-brands fa-react",
+                    "faIconColors": {"bg": "", "fill": "#61DAFB", "fillLight": "#317385"},
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "React.js / Next.js",
+                            "text": "Experience building modern frontend applications with reusable components and SSR.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Experiencia en la creación de aplicaciones frontend modernas con componentes reutilizables y SSR."
+                        },
+                        "fr": {
+                            "text": "Expérience dans le développement d'applications frontend modernes avec des composants réutilisables et SSR."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "",
+                    "faIcon": "fa-brands fa-angular",
+                    "faIconColors": {"bg": "", "fill": "#c90913"},
+                    "percentage": 70,
+                    "locales": {
+                        "en": {
+                            "title": "Angular",
+                            "text": "Intermediate experience building interactive user interfaces with Angular.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Experiencia intermedia en la creación de interfaces interactivas con Angular."
+                        },
+                        "fr": {
+                            "text": "Expérience intermédiaire dans la création d'interfaces interactives avec Angular."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": "",
+                    "faIcon": "fa-brands fa-bootstrap",
+                    "faIconColors": {"bg": "", "fill": "#7952B3"},
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "Bootstrap 5",
+                            "text": "Good understanding of Bootstrap 5 for rapid responsive design.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Buena comprensión de Bootstrap 5 para diseño responsive rápido."
+                        },
+                        "fr": {
+                            "text": "Bonne maîtrise de Bootstrap 5 pour un design réactif rapide."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Mobile Development"},
+                "es": {"title": "Desarrollo Mobile"},
+                "fr": {"title": "Développement Mobile"}
+            },
+            "settings": {
+                "max_items_per_row": 3,
+                "max_rows_collapse_threshold": 4,
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-solid fa-mobile-screen-button",
+                    "faIconColors": {"bg": "", "fill": "#02569B"},
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "Flutter (Dart)",
+                            "text": "Experience building cross-platform mobile applications with Flutter and Dart.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Experiencia en el desarrollo de aplicaciones móviles multiplataforma con Flutter y Dart."
+                        },
+                        "fr": {
+                            "text": "Expérience dans le développement d'applications mobiles multiplateformes avec Flutter et Dart."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "",
+                    "faIcon": "fa-brands fa-react",
+                    "faIconColors": {"bg": "", "fill": "#61DAFB", "fillLight": "#317385"},
+                    "percentage": 70,
+                    "locales": {
+                        "en": {
+                            "title": "React Native",
+                            "text": "Built a delivery management mobile app using React Native during my final internship.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Desarrollé una aplicación móvil de gestión de entregas con React Native durante mis prácticas finales."
+                        },
+                        "fr": {
+                            "text": "Développé une application mobile de gestion des livraisons avec React Native lors de mon stage de fin d'études."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 5,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "CMS & E-Commerce"},
+                "es": {"title": "CMS y E-Commerce"},
+                "fr": {"title": "CMS & E-Commerce"}
+            },
+            "settings": {
+                "max_items_per_row": 3,
+                "max_rows_collapse_threshold": 4,
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-brands fa-wordpress",
+                    "faIconColors": {"bg": "", "fill": "#21759B"},
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "WordPress",
+                            "text": "Advanced experience with WordPress: theme customization, plugins, PHP 8 modifications, SEO and performance optimization.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Experiencia avanzada con WordPress: personalización de temas, plugins, modificaciones PHP 8, SEO y optimización de rendimiento."
+                        },
+                        "fr": {
+                            "text": "Expérience avancée avec WordPress : personnalisation de thèmes, plugins, modifications PHP 8, SEO et optimisation des performances."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "",
+                    "faIcon": "fa-solid fa-cart-shopping",
+                    "faIconColors": {"bg": "", "fill": "#DF0067"},
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "Prestashop",
+                            "text": "Experience building and managing e-commerce stores with Prestashop.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Experiencia creando y gestionando tiendas e-commerce con Prestashop."
+                        },
+                        "fr": {
+                            "text": "Expérience dans la création et la gestion de boutiques e-commerce avec Prestashop."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "fa-brands fa-shopify",
+                    "faIconColors": {"bg": "", "fill": "#96BF48"},
+                    "percentage": 65,
+                    "locales": {
+                        "en": {
+                            "title": "Shopify",
+                            "text": "Working knowledge of Shopify for setting up and customizing online stores.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Conocimientos prácticos de Shopify para la creación y personalización de tiendas en línea."
+                        },
+                        "fr": {
+                            "text": "Connaissance pratique de Shopify pour la création et la personnalisation de boutiques en ligne."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 6,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "SEO & Analytics"},
+                "es": {"title": "SEO y Analítica"},
+                "fr": {"title": "SEO & Analytique"}
+            },
+            "settings": {
+                "max_items_per_row": 3,
+                "max_rows_collapse_threshold": 4,
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-solid fa-magnifying-glass",
+                    "faIconColors": {"bg": "", "fill": "#4285F4"},
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "SEO",
+                            "text": "On-page and technical SEO: keyword optimization, backlink analysis, site structure and Google Search Console.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "SEO on-page y técnico: optimización de palabras clave, análisis de backlinks, estructura del sitio y Google Search Console."
+                        },
+                        "fr": {
+                            "text": "SEO on-page et technique : optimisation des mots-clés, analyse des backlinks, structure du site et Google Search Console."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "",
+                    "faIcon": "fa-solid fa-chart-line",
+                    "faIconColors": {"bg": "", "fill": "#E37400"},
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "Google Analytics 4",
+                            "text": "Performance tracking, user behavior analysis and conversion monitoring with GA4 and Google Tag Manager.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Seguimiento del rendimiento, análisis del comportamiento del usuario y monitoreo de conversiones con GA4 y Google Tag Manager."
+                        },
+                        "fr": {
+                            "text": "Suivi des performances, analyse du comportement des utilisateurs et monitoring des conversions avec GA4 et Google Tag Manager."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "fa-solid fa-gauge-high",
+                    "faIconColors": {"bg": "", "fill": "#34A853"},
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "PageSpeed & Performance",
+                            "text": "Website performance optimization using Google PageSpeed Insights: cache, images and database tuning.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Optimización del rendimiento web con Google PageSpeed Insights: caché, imágenes y ajuste de base de datos."
+                        },
+                        "fr": {
+                            "text": "Optimisation des performances web avec Google PageSpeed Insights : cache, images et réglage de la base de données."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 7,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Methodologies & Tools"},
+                "es": {"title": "Metodologías y Herramientas"},
+                "fr": {"title": "Méthodologies & Outils"}
+            },
+            "settings": {
+                "max_items_per_row": 3,
+                "max_rows_collapse_threshold": 4,
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-solid fa-arrows-spin",
+                    "faIconColors": {"bg": "", "fill": "#0052CC"},
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "Agile / Scrum",
+                            "text": "Experience working in Agile teams using Scrum methodology: sprints, daily stand-ups and backlog management.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Experiencia trabajando en equipos Agile con metodología Scrum: sprints, daily stand-ups y gestión del backlog."
+                        },
+                        "fr": {
+                            "text": "Expérience de travail en équipes Agile avec la méthodologie Scrum : sprints, daily stand-ups et gestion du backlog."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "",
+                    "faIcon": "fa-solid fa-vial",
+                    "faIconColors": {"bg": "", "fill": "#FF6C37"},
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "Postman",
+                            "text": "API testing and debugging using Postman for REST and GraphQL endpoints.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Pruebas y depuración de APIs con Postman para endpoints REST y GraphQL."
+                        },
+                        "fr": {
+                            "text": "Tests et débogage d'APIs avec Postman pour les endpoints REST et GraphQL."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "fa-solid fa-paintbrush",
+                    "faIconColors": {"bg": "", "fill": "#31A8FF"},
+                    "percentage": 70,
+                    "locales": {
+                        "en": {
+                            "title": "Photoshop / Illustrator",
+                            "text": "Graphic design skills for creating UI mockups, banners and visual assets.",
+                            "level": ""
+                        },
+                        "es": {
+                            "text": "Habilidades de diseño gráfico para crear maquetas de UI, banners y recursos visuales."
+                        },
+                        "fr": {
+                            "text": "Compétences en design graphique pour créer des maquettes UI, bannières et ressources visuelles."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 8,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Languages"},
+                "es": {"title": "Idiomas"},
+                "fr": {"title": "Langues"}
+            },
+            "settings": {
+                "max_items_per_row": 1,
+                "max_rows_collapse_threshold": 4,
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "round_icons": true
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/flags/ar-tn.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "date": {"year": null, "month": null},
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Arabic",
+                            "text": "Native language — full professional proficiency in spoken and written Arabic.",
+                            "level": "Native"
+                        },
+                        "es": {
+                            "title": "Árabe",
+                            "text": "Lengua materna — plena competencia profesional en árabe hablado y escrito.",
+                            "level": "Nativo"
+                        },
+                        "fr": {
+                            "title": "Arabe",
+                            "text": "Langue maternelle — maîtrise professionnelle complète de l'arabe oral et écrit.",
+                            "level": "Natif"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "images/flags/fr.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "date": {"year": null, "month": null},
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "French",
+                            "text": "Professional proficiency in both spoken and written French, used in academic and professional environments.",
+                            "level": "Professional"
+                        },
+                        "es": {
+                            "title": "Francés",
+                            "text": "Nivel profesional en francés hablado y escrito, utilizado en entornos académicos y profesionales.",
+                            "level": "Profesional"
+                        },
+                        "fr": {
+                            "title": "Français",
+                            "text": "Maîtrise professionnelle du français à l'oral et à l'écrit, utilisée dans des contextes académiques et professionnels.",
+                            "level": "Professionnel"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "images/flags/en-us.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "date": {"year": null, "month": null},
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "text": "Professional working proficiency in English, with the ability to communicate effectively in technical and professional contexts.",
+                            "level": "Professional"
+                        },
+                        "es": {
+                            "title": "Inglés",
+                            "text": "Nivel profesional de inglés, con capacidad para comunicarse eficazmente en contextos técnicos y profesionales.",
+                            "level": "Profesional"
+                        },
+                        "fr": {
+                            "title": "Anglais",
+                            "text": "Niveau professionnel en anglais, avec une capacité à communiquer efficacement dans des contextes techniques et professionnels.",
+                            "level": "Professionnel"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

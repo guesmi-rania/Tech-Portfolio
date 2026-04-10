@@ -1,0 +1,41 @@
+{
+    "name": "Rania Guesmi",
+
+    "profilePictureUrl": "images/pictures/profile-picture.jpg",
+    "resumePdfUrl": "",
+
+    "statusCircleVisible": true,
+    "statusCircleVariant": "available",
+    "statusCircleHoverMessage": "status_message_available_for_freelance",
+
+    "locales": {
+        "en": {
+            "localized_name": "Rania Guesmi",
+            "localized_name_stylized": " [[Rania {{Guesmi}}]]",
+            "status_message_available_for_freelance": "Available for freelance!",
+            "roles": [
+                "Backend Developer",
+                "Frontend Developer",
+                "UX Designer"
+            ],
+            "name_pronunciation_ipa": "/rania guesmi/",
+            "name_pronunciation_audio_url": "audio/french-name-pronunciation.mp3"
+        },
+        "es": {
+            "status_message_available_for_freelance": "¡Disponible para freelance!",
+            "roles": [
+                "Desarrolladora Backend",
+                "Desarrolladora Frontend",
+                "Diseñadora UX"
+            ]
+        },
+        "fr": {
+            "status_message_available_for_freelance": "Disponible pour freelance !",
+            "roles": [
+                "Développeuse Backend",
+                "Développeuse Frontend",
+                "Designer UX"
+            ]
+        }
+    }
+}

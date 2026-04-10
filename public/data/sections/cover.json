@@ -1,0 +1,244 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Welcome!",
+                "title_short_nav": "About me",
+                "title_long_prefix": "Hello...",
+                "title_long": "I'm {{Rania Guesmi!}}"
+            },
+            "es": {
+                "title_short": "¡Saludos!",
+                "title_short_nav": "Sobre mí",
+                "title_long_prefix": "Hola...",
+                "title_long": "Soy {{Rania Guesmi!}}"
+            },
+            "fr": {
+                "title_short": "Salut !",
+                "title_short_nav": "À propos",
+                "title_long_prefix": "Salut...",
+                "title_long": "Je suis {{Rania Guesmi !}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleInlineList",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "display_as_list_if_width_is_lower_than": 380
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "label": "Tunis, Tunisie",
+                    "link": {"href": "", "tooltipString": ""},
+                    "faIcon": "pi pi-map-marker"
+                },
+                {
+                    "id": 2,
+                    "label": "rania.guesmi@esen.tn",
+                    "link": {"href": "mailto:rania.guesmi@esen.tn", "tooltipString": "email_me"},
+                    "faIcon": "fa-regular fa-envelope"
+                },
+                {
+                    "id": 3,
+                    "label": "@guesmi-rania",
+                    "link": {"href": "https://github.com/guesmi-rania", "tooltipString": "see_on_github"},
+                    "faIcon": "fa-brands fa-github"
+                },
+                {
+                    "id": 4,
+                    "label": "Rania Guesmi",
+                    "link": {"href": "https://www.linkedin.com/in/rania-guesmi-0911281bb/", "tooltipString": "open_website"},
+                    "faIcon": "fa-brands fa-linkedin"
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleText",
+            "locales": {
+                "en": {"title": "{{A little bit}} about me..."},
+                "es": {"title": "{{Un poco}} sobre mí..."},
+                "fr": {"title": "{{Un peu}} à propos de moi..."}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/pictures/about-texts-image-1.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "text": "<p>I'm a {{Full Stack Web Developer}} with [[over 3 years]] of experience, specializing in building modern web applications using React.js, Node.js, PHP 8 and WordPress. I also have hands-on experience with Flutter, React Native, MongoDB, PostgreSQL and MySQL.</p><p>Passionate about clean code and user-friendly solutions, I've worked on a variety of projects — from e-commerce platforms and CMS websites to mobile apps and REST APIs. I'm also experienced in SEO optimization, Google Analytics 4 and performance tuning.</p><p>I look forward to collaborating [[with you!]]</p>"
+                        },
+                        "es": {
+                            "text": "<p>Soy una {{desarrolladora web Full Stack}} con [[más de 3 años]] de experiencia, especializada en la creación de aplicaciones web modernas con React.js, Node.js, PHP 8 y WordPress. También tengo experiencia práctica con Flutter, React Native, MongoDB, PostgreSQL y MySQL.</p><p>Apasionada por el código limpio y las soluciones centradas en el usuario, he trabajado en una variedad de proyectos: desde plataformas de e-commerce y sitios CMS hasta aplicaciones móviles y APIs REST. También tengo experiencia en optimización SEO, Google Analytics 4 y mejora del rendimiento.</p><p>¡Espero con interés colaborar [[contigo!]]</p>"
+                        },
+                        "fr": {
+                            "text": "<p>Je suis une {{développeuse web Full Stack}} avec [[plus de 3 ans]] d'expérience, spécialisée dans la création d'applications web modernes avec React.js, Node.js, PHP 8 et WordPress. J'ai également de l'expérience pratique avec Flutter, React Native, MongoDB, PostgreSQL et MySQL.</p><p>Passionnée par le code propre et les solutions conviviales, j'ai travaillé sur une variété de projets : des plateformes e-commerce et sites CMS aux applications mobiles et API REST. Je maîtrise également l'optimisation SEO, Google Analytics 4 et l'amélioration des performances.</p><p>J'ai hâte de collaborer [[avec vous !]]</p>"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 4,
+            "component": "ArticleInfoList",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "locales": {
+                "en": {"title": "Personal {{interests}}"},
+                "es": {"title": "Intereses {{personales}}"},
+                "fr": {"title": "Intérêts {{personnels}}"}
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-solid fa-book-open",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{Reading}}",
+                            "text": "I love reading books on technology, personal development and fiction."
+                        },
+                        "es": {
+                            "title": "{{Lectura}}",
+                            "text": "Me encanta leer libros sobre tecnología, desarrollo personal y ficción."
+                        },
+                        "fr": {
+                            "title": "{{Lecture}}",
+                            "text": "J'aime lire des livres sur la technologie, le développement personnel et la fiction."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-solid fa-screwdriver-wrench",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{DIY}} & Crafting",
+                            "text": "I enjoy hands-on DIY projects and creating things with my own hands."
+                        },
+                        "es": {
+                            "title": "{{Bricolaje}} y Manualidades",
+                            "text": "Disfruto de los proyectos de bricolaje y crear cosas con mis propias manos."
+                        },
+                        "fr": {
+                            "title": "{{Bricolage}} & Création",
+                            "text": "J'aime les projets de bricolage et créer des choses de mes propres mains."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-solid fa-person-hiking",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{Hiking}} & Nature",
+                            "text": "I love exploring nature trails and disconnecting from screens."
+                        },
+                        "es": {
+                            "title": "{{Senderismo}} y Naturaleza",
+                            "text": "Me encanta explorar senderos naturales y desconectarme de las pantallas."
+                        },
+                        "fr": {
+                            "title": "{{Randonnée}} & Nature",
+                            "text": "J'aime explorer les sentiers naturels et me déconnecter des écrans."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-solid fa-camera-retro",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{Photography}} & Photoshop",
+                            "text": "Enhancing photos and creating visual content with Photoshop and Illustrator."
+                        },
+                        "es": {
+                            "title": "{{Fotografía}} y Photoshop",
+                            "text": "Mejorando fotos y creando contenido visual con Photoshop e Illustrator."
+                        },
+                        "fr": {
+                            "title": "{{Photographie}} & Photoshop",
+                            "text": "Améliorer des photos et créer du contenu visuel avec Photoshop et Illustrator."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-solid fa-window-restore",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{UX}} Design",
+                            "text": "Interested in user experience principles and creating intuitive interfaces."
+                        },
+                        "es": {
+                            "title": "Diseño {{UX}}",
+                            "text": "Interesada en los principios de experiencia de usuario e interfaces intuitivas."
+                        },
+                        "fr": {
+                            "title": "Conception {{UX}}",
+                            "text": "Intéressée par les principes d'expérience utilisateur et la création d'interfaces intuitives."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-solid fa-code",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "Open Source {{Contributions}}",
+                            "text": "Exploring open source projects and contributing to the developer community."
+                        },
+                        "es": {
+                            "title": "{{Contribuciones}} Open Source",
+                            "text": "Explorando proyectos de código abierto y contribuyendo a la comunidad de desarrolladores."
+                        },
+                        "fr": {
+                            "title": "{{Contributions}} Open Source",
+                            "text": "Explorer des projets open source et contribuer à la communauté des développeurs."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

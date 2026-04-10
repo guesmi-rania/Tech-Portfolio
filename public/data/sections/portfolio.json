@@ -1,0 +1,410 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Portfolio",
+                "title_short_nav": "Portfolio",
+                "title_long_prefix": "Take a look at",
+                "title_long": "My {{Portfolio}}"
+            },
+            "es": {
+                "title_short": "Portafolio",
+                "title_short_nav": "Portafolio",
+                "title_long_prefix": "Explora",
+                "title_long": "Mi {{Portafolio}}"
+            },
+            "fr": {
+                "title_short": "Portfolio",
+                "title_short_nav": "Portfolio",
+                "title_long_prefix": "Découvrez",
+                "title_long": "Mon {{Portfolio}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "category_all": "All",
+                    "category_apps": "Apps",
+                    "category_web": "Web",
+                    "category_utilities": "Utilities"
+                },
+                "es": {
+                    "category_all": "Todo",
+                    "category_apps": "Apps",
+                    "category_web": "Web",
+                    "category_utilities": "Utilidades"
+                },
+                "fr": {
+                    "category_all": "Tout",
+                    "category_apps": "Apps",
+                    "category_web": "Web",
+                    "category_utilities": "Utilitaires"
+                }
+            },
+            "settings": {
+                "categorize_by": ["category_apps", "category_web", "category_utilities"],
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "categoryId": "category_web",
+                     "img": "",
+                    "faIcon": "fa-solid fa-truck-fast",
+                    "faIconColors": {"bg": "#d4cf3d", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/guesmi-rania/gestion-de-livraison", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://guesmi-rania.github.io/gestion-de-livraison/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo-landscape-1.png",
+                            "images/pictures/screenshot-demo-landscape-2.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                      "en": {
+                       "title": "Delivery Management",
+                       "text": "A <b>RESTful API</b> backend built with <b>Node.js</b>, that allows you to add, view, and delete deliveries. It helps organize client information such as name, address, date, and delivery status for efficient tracking.",
+                       "tags": ["API", "REST", "Backend"]
+                            },
+                      "es": {
+                       "text": "Una <b>API RESTful</b> construida con <b>Node.js</b>, permite agregar, ver y eliminar entregas. Ayuda a organizar información del cliente como nombre, dirección, fecha y estado de entrega.",
+                       "tags": ["API", "REST", "Backend"]
+                            },
+                      "fr": {
+                       "text": "Un backend <b>API RESTful</b> construit avec <b>Node.js</b>, permettant d'ajouter, consulter et supprimer des livraisons. Elle permet d'organiser les informations clients comme le nom, l'adresse, la date et le statut de livraison.",
+                       "tags": ["API", "REST", "Backend"]
+                            }
+                    }
+                },
+                {
+                    "id": 2,
+                    "categoryId": "category_apps",
+                    "img": "",
+                    "faIcon": "fa-solid fa-briefcase-medical",
+                    "faIconColors": {"bg": "#00ae98", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/guesmi-rania/docly-mobile", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://github.com/guesmi-rania/docly-mobile/releases/tag/v1.0.0", "tooltipString": "download_app", "faIcon": "fa-brands fa-google-play"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo-portrait-1.png",
+                            "images/pictures/screenshot-demo-portrait-2.png",
+                            "images/pictures/screenshot-demo-portrait-3.png",
+                            "images/pictures/screenshot-demo-portrait-4.png",
+                            "images/pictures/screenshot-demo-portrait-5.png",
+                            "images/pictures/screenshot-demo-portrait-6.png",
+                            "images/pictures/screenshot-demo-portrait-7.png",
+                            "images/pictures/screenshot-demo-portrait-8.png",
+                            "images/pictures/screenshot-demo-portrait-9.png"
+                        ],
+                        "screenshotsAspectRatio": "9:16",
+                        "youtubeVideo": ""
+                    },
+                "locales": { 
+                    "en": {
+                     "title": "Docly",
+                     "text": "A cross-platform healthcare mobile application built with <b>Flutter</b>, providing an intuitive interface for <b>appointment booking</b>, telemedicine, and secure health record management.",
+                     "tags": ["Flutter", "Dart", "Mobile"]
+                          },
+                    "es": {
+                     "text": "Una aplicación móvil de salud multiplataforma construida con <b>Flutter</b>, que ofrece una interfaz intuitiva para la <b>reserva de citas</b>, la telemedicina y la gestión segura de historiales médicos.",
+                     "tags": ["Flutter", "Dart", "Móvil"]
+                          },
+                    "fr": {
+                     "text": "Une application mobile de santé multiplateforme développée avec <b>Flutter</b>, offrant une interface intuitive pour la <b>prise de rendez-vous</b>, la téléconsultation et la gestion sécurisée des dossiers médicaux.",
+                    "tags": ["Flutter", "Dart", "Mobile"]
+                          }
+                 }
+                },
+                {
+                    "id": 3,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/portfolio-project-logo-6.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/guesmi-rania/Le-Four-Secret", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://frontend-recettes-fxc8.onrender.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo-landscape-3.png",
+                            "images/pictures/screenshot-demo-landscape-4.png",
+                            "images/pictures/screenshot-demo-landscape-5.png",
+                            "images/pictures/screenshot-demo-landscape-6.png",
+                            "images/pictures/screenshot-demo-landscape-7.png",
+                             "images/pictures/screenshot-demo-landscape-8.png",
+                            "images/pictures/screenshot-demo-landscape-9.png",
+                             "images/pictures/screenshot-demo-landscape-10.png",
+                            "images/pictures/screenshot-demo-landscape-11.png",
+                            "images/pictures/screenshot-demo-landscape-12.png",
+                            "images/pictures/screenshot-demo-landscape-13.png",
+                            "images/pictures/screenshot-demo-landscape-14.png"
+
+                            
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Pastry recipes",
+                            "text": "A full-stack web application built with <b>React</b> for managing pastry recipes, allowing users to <b>add, view, and organize recipes</b> through an intuitive interface.",
+                            "tags": ["React", "Recipes", "Full Stack"]
+                        },
+                        "es": {
+                            "text": "Una aplicación web full-stack desarrollada con <b>React</b> para gestionar recetas de pastelería, permitiendo <b>agregar y organizar recetas</b> fácilmente.",
+                            "tags": ["React", "Recetas", "Full Stack"]
+                        },
+                        "fr": {
+                            "text": "Une application web full-stack développée avec <b>React</b> pour gérer des recettes de pâtisserie, permettant <b>d’ajouter et organiser des recettes</b> facilement.",
+                            "tags": ["React", "Recettes", "Full Stack"]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "categoryId": "category_web",
+                    "img": "",
+                    "faIcon": "fa-solid fa-screwdriver-wrench",
+                    "faIconColors": {"bg": "#5240c9", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/guesmi-rania/Le-Four-Secret", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://le-four-secret.onrender.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo-landscape-15.png",
+                            "images/pictures/screenshot-demo-landscape-16.png",
+                            "images/pictures/screenshot-demo-landscape-17.png",
+                            "images/pictures/screenshot-demo-landscape-18.png",
+                            "images/pictures/screenshot-demo-landscape-19.png",
+                            "images/pictures/screenshot-demo-landscape-20.png",
+                            "images/pictures/screenshot-demo-landscape-21.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Admin Dashboard",
+                            "text": "A full-stack admin dashboard built with <b>React</b>, designed to <b>manage products, categories, and orders</b> with a modern UI and secure data handling.",
+                            "tags": ["React JS", "Node.js", "MongoDB", "JavaScript"]
+                        },
+                        "es": {
+                            "title": "Admin Dashboard",
+                            "text": "Un panel de administración desarrollado con <b>React</b> para <b>gestionar productos, categorías y pedidos</b> con una interfaz moderna.",
+                            "tags": ["React JS", "Node.js", "MongoDB", "JavaScript"]
+                        },
+                        "fr": {
+                            "title": "Admin Dashboard",
+                            "text": "Un tableau de bord développé avec <b>React</b> permettant de <b>gérer produits, catégories et commandes</b> avec une interface moderne.",
+                            "tags": ["React JS", "Node.js", "MongoDB", "JavaScript"]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "categoryId": "category_web",
+                    "img": "",
+                    "faIcon": "fa-solid fa-bag-shopping",
+                    "faIconColors": {"bg": "#942e34", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/guesmi-rania/Shoply", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://guesmi-rania.github.io/Shoply", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo-landscape-22.png",
+                            "images/pictures/screenshot-demo-landscape-23.png",
+                            "images/pictures/screenshot-demo-landscape-24.png",
+                            "images/pictures/screenshot-demo-landscape-25.png",
+                            "images/pictures/screenshot-demo-landscape-26.png",
+                            "images/pictures/screenshot-demo-landscape-27.png",
+                            "images/pictures/screenshot-demo-landscape-28.png",
+                            "images/pictures/screenshot-demo-landscape-29.png",
+                            "images/pictures/screenshot-demo-landscape-30.png",
+                            "images/pictures/screenshot-demo-landscape-31.png",
+                            "images/pictures/screenshot-demo-landscape-32.png",
+                            "images/pictures/screenshot-demo-landscape-33.png",
+                            "images/pictures/screenshot-demo-landscape-34.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Shoply",
+                            "text": "A modern e-commerce platform built with <b>Angular</b>, allowing users to <b>browse products</b>, manage carts, and complete purchases with a responsive design.",
+                            "tags": ["Angular", "Node.js", "TypeScript", "CSS3"]
+                        },
+                        "es": {
+                            "title": "Shoply",
+                            "text": "Una plataforma e-commerce desarrollada con <b>Angular</b>, que permite <b>explorar productos</b> y realizar compras fácilmente.",
+                            "tags": ["Angular", "Node.js", "TypeScript", "CSS3"]
+                        },
+                        "fr": {
+                            "title": "Shoply",
+                            "text": "Une plateforme e-commerce développée avec <b>Angular</b>, permettant de <b>parcourir les produits</b> et effectuer des achats facilement.",
+                            "tags": ["Angular", "Node.js", "TypeScript", "CSS3"]
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/portfolio-project-logo-5.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/guesmi-rania/coiffure_booking", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://coiffure-booking.onrender.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo-landscape-35.png",
+                            "images/pictures/screenshot-demo-landscape-36.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Hairdressing Booking",
+                            "text": "A Django-based booking system for managing hair salon reservations with simple create and view functionality.",
+                            "tags": ["Django", "Booking", "Backend"]
+                        },
+                        "es": {
+                            "title": "Hairdressing Booking",
+                            "text": "Un sistema de reservas desarrollado con <b>Django</b> que permite <b>gestionar citas</b> en un salón de peluquería.",
+                            "tags": ["Django", "Reservas", "Backend"]
+                        },
+                        "fr": {
+                            "title": "Hairdressing Booking",
+                            "text": "Une application de réservation développée avec <b>Django</b>, permettant de <b>gérer les rendez-vous</b> d’un salon de coiffure.",
+                            "tags": ["Django", "Réservation", "Backend"]
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "categoryId": "category_apps",
+                    "img": "",
+                    "faIcon": "fa-solid fa-comments",
+                    "faIconColors": {"bg": "#166e11", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/guesmi-rania/GoTalk", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://gotalk-r.onrender.com/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo-landscape-41.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "GoTalk",
+                            "text": "A real-time chat application built with <b>React</b> and <b>Socket.io</b>, enabling users to <b>send instant messages</b> across devices.",
+                            "tags": ["React", "Chat", "Real-time"]
+                        },
+                        "es": {
+                            "title": "GoTalk",
+                            "text": "Una aplicación de chat en tiempo real desarrollada con <b>React</b> y <b>Socket.io</b>, que permite <b>enviar mensajes instantáneos</b>.",
+                            "tags": ["React", "Chat", "Tiempo real"]
+                        },
+                        "fr": {
+                            "title": "GoTalk",
+                            "text": "Une application de chat en temps réel développée avec <b>React</b> et <b>Socket.io</b>, permettant <b>d’envoyer des messages instantanés</b>.",
+                            "tags": ["React", "Chat", "Temps réel"]
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "categoryId": "category_utilities",
+                    "img": "images/pictures/portfolio-project-logo-4.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/guesmi-rania/traffic-prediction/tree/main", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://traffic-prediction-s63v.vercel.app/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo-landscape-37.png",
+                            "images/pictures/screenshot-demo-landscape-38.png",
+                            "images/pictures/screenshot-demo-landscape-39.png",
+                            "images/pictures/screenshot-demo-landscape-40.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9"
+                    },
+                    "locales": {
+                      
+                      "en": {
+                      "title": "Traffic Prediction Dashboard",
+                      "text": "A full-stack web application built with <b>React</b> and <b>Flask</b> that predicts traffic levels based on vehicle input. It provides real-time <b>predictions</b> and interactive <b>data visualization</b> through a modern dashboard.",
+                      "tags": ["Full-Stack", "Prediction", "Dashboard"]
+                            },
+                      "es": {
+                      "title": "Panel de Predicción de Tráfico",
+                      "text": "Una aplicación web full-stack desarrollada con <b>React</b> y <b>Flask</b> que predice los niveles de tráfico según la entrada de vehículos. Ofrece <b>predicciones</b> en tiempo real y <b>visualización de datos</b> interactiva en un panel moderno.",
+                      "tags": ["Full-Stack", "Predicción", "Dashboard"]
+                            },
+                      "fr": {
+                      "title": "Tableau de Bord de Prédiction du Trafic",
+                      "text": "Une application web full-stack développée avec <b>React</b> et <b>Flask</b> qui prédit les niveaux de trafic en fonction du nombre de véhicules. Elle fournit des <b>prédictions</b> en temps réel et une <b>visualisation de données</b> interactive via un tableau de bord moderne.",
+                      "tags": ["Full-Stack", "Prédiction", "Dashboard"]
+                            }
+                }          
+                },
+                {
+                    "id": 9,
+                    "categoryId": "category_apps",
+                    "img": "",
+                    "faIcon": "fa-solid fa-cubes",
+                    "faIconColors": {"bg": "#386c8b", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/guesmi-rania/Stock_manager", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://guesmi-rania.github.io/Stock_manager/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo-portrait-10.png",
+                            "images/pictures/screenshot-demo-portrait-11.png",
+                            "images/pictures/screenshot-demo-portrait-12.png"
+                        ],
+                        "screenshotsAspectRatio": "9:16",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Stock Management",
+                            "text": "A mobile inventory management app built with <b>Flutter</b>, allowing users to <b>track products</b>, manage stock levels, and organize inventory efficiently.",
+                            "tags": ["Flutter", "Mobile", "Inventory"]
+                        },
+                        "es": {
+                            "title": "Stock Management",
+                            "text": "Una aplicación móvil de gestión de inventario desarrollada con <b>Flutter</b>, que permite <b>gestionar productos</b> y controlar existencias.",
+                            "tags": ["Flutter", "Móvil", "Inventario"]
+                        },
+                        "fr": {
+                            "title": "Stock Management",
+                            "text": "Une application mobile de gestion de stock développée avec <b>Flutter</b>, permettant de <b>suivre les produits</b> et gérer les quantités.",
+                            "tags": ["Flutter", "Mobile", "Stock"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

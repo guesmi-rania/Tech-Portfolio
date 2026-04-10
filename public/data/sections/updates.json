@@ -1,0 +1,463 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Life recently",
+                "title_short_nav": "Updates",
+                "title_long_prefix": "Take a look at my",
+                "title_long": "Recent {{Updates}}"
+            },
+            "es": {
+                "title_short": "Vida Reciente",
+                "title_short_nav": "Actualizaciones",
+                "title_long_prefix": "Consulta mis",
+                "title_long": "Actualizaciones {{Recientes}}"
+            },
+            "fr": {
+                "title_short": "Vie Récente",
+                "title_short_nav": "Mises à Jour",
+                "title_long_prefix": "Découvrez mes",
+                "title_long": "Dernières {{Mises à Jour}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleFacts",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": null,
+                    "faIcon": "fa-solid fa-briefcase",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "06",
+                            "text": "Professional Experiences"
+                        },
+                        "es": {
+                            "title": "06",
+                            "text": "Experiencias Profesionales"
+                        },
+                        "fr": {
+                            "title": "06",
+                            "text": "Expériences Professionnelles"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": null,
+                    "faIcon": "fa-solid fa-globe",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "17+",
+                            "text": "Web Projects Delivered"
+                        },
+                        "es": {
+                            "title": "17+",
+                            "text": "Proyectos Web Entregados"
+                        },
+                        "fr": {
+                            "title": "17+",
+                            "text": "Projets Web Réalisés"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": null,
+                    "faIcon": "fa-solid fa-graduation-cap",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "01",
+                            "text": "Degrees Obtained"
+                        },
+                        "es": {
+                            "title": "01",
+                            "text": "Títulos Obtenidos"
+                        },
+                        "fr": {
+                            "title": "01",
+                            "text": "Diplômes Obtenus"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": null,
+                    "faIcon": "fa-solid fa-diagram-project",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "03",
+                            "text": "Freelance Missions"
+                        },
+                        "es": {
+                            "title": "03",
+                            "text": "Misiones Freelance"
+                        },
+                        "fr": {
+                            "title": "03",
+                            "text": "Missions Freelance"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": null,
+                    "faIcon": "fa-solid fa-coffee",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "5,000",
+                            "text": "Coffees Consumed"
+                        },
+                        "es": {
+                            "title": "5,000",
+                            "text": "Cafés Consumidos"
+                        },
+                        "fr": {
+                            "title": "5,000",
+                            "text": "Cafés Consommés"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": null,
+                    "faIcon": "fa-solid fa-laptop-code",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "50,000+",
+                            "text": "Lines of Code"
+                        },
+                        "es": {
+                            "title": "50,000+",
+                            "text": "Líneas de Código"
+                        },
+                        "fr": {
+                            "title": "50,000+",
+                            "text": "Lignes de Code"
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "img": null,
+                    "faIcon": "fa-solid fa-heart",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "Infinite",
+                            "text": "Passion for Development"
+                        },
+                        "es": {
+                            "title": "Infinita",
+                            "text": "Pasión por el Desarrollo"
+                        },
+                        "fr": {
+                            "title": "Infinie",
+                            "text": "Passion pour le Développement"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": { "title": "My {{Updates}}" },
+                "es": { "title": "Mis {{Actualizaciones}}" },
+                "fr": { "title": "Mes {{Actualités}}" }
+            },
+            "settings": {
+                "max_rows_collapse_threshold": 3,
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "date": {"year": 2021, "month": 5},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Graduated with a {{Professional Degree!}}",
+                            "province": "Manouba",
+                            "country": "Tunisia",
+                            "institution": "ESEN",
+                            "text": "I'm proud to have obtained my [[Professional Degree in E-Commerce]] from ESEN – École Supérieure d'Économie Numérique. This diploma marked the beginning of my professional journey as a Full Stack Web Developer. During my studies, I completed a final internship at The Way, where I designed and developed a delivery management application using Node.js, React Native, MongoDB and Express.js.",
+                            "list": []
+                        },
+                        "es": {
+                            "title": "¡Obtuve mi {{Licencia Profesional!}}",
+                            "province": "Manouba",
+                            "country": "Túnez",
+                            "institution": "ESEN",
+                            "text": "Me enorgullece haber obtenido mi [[Licencia Profesional en Comercio Electrónico]] en ESEN – École Supérieure d'Économie Numérique. Este diploma marcó el inicio de mi carrera profesional como desarrolladora web Full Stack. Durante mis estudios, realicé unas prácticas finales en The Way, donde diseñé y desarrollé una aplicación de gestión de entregas con Node.js, React Native, MongoDB y Express.js.",
+                            "list": []
+                        },
+                        "fr": {
+                            "title": "Obtention de ma {{Licence Professionnelle!}}",
+                            "province": "Manouba",
+                            "country": "Tunisie",
+                            "institution": "ESEN",
+                            "text": "Je suis fière d'avoir obtenu ma [[Licence Professionnelle en Commerce Électronique]] à l'ESEN – École Supérieure d'Économie Numérique. Ce diplôme a marqué le début de mon parcours professionnel en tant que développeuse web Full Stack. Durant mes études, j'ai effectué un stage de fin d'études chez The Way, où j'ai conçu et développé une application de gestion des livraisons avec Node.js, React Native, MongoDB et Express.js.",
+                            "list": []
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "date": {"year": 2023, "month": 3},
+                    "preview": {
+                        "links": [ 
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                    "en": {
+    "title": "My first {{Freelance React Project}}",
+    "province": "",
+    "country": "Remote",
+    "institution": "Digital-Djerba",
+    "text": "This project represents my first freelance experience using React — [[Digital-Djerba]], an e-commerce application for buying fruits and vegetables online. It allowed me to apply my React.js skills by building a fully responsive interface with a product catalog, category filtering, and a shopping cart system. This experience strengthened my practical skills and confidence as a freelance developer.",
+    "list": [
+        "Built with React.js using reusable component architecture",
+        "Responsive design for both mobile and desktop",
+        "Product catalog with category filtering and cart system",
+        "Deployed via GitHub Pages"
+    ]
+},
+"es": {
+    "title": "Mi primer {{Proyecto Freelance con React}}",
+    "province": "",
+    "country": "Teletrabajo",
+    "institution": "Digital-Djerba",
+    "text": "Este proyecto representa mi primera experiencia freelance con React — [[Digital-Djerba]], una aplicación de e-commerce para comprar frutas y verduras en línea. Me permitió aplicar mis habilidades en React.js desarrollando una interfaz totalmente responsive con catálogo de productos, filtrado por categoría y sistema de carrito.",
+    "list": [
+        "Desarrollado con React.js usando componentes reutilizables",
+        "Diseño responsive para móvil y escritorio",
+        "Catálogo de productos con filtrado por categoría y carrito",
+        "Desplegado mediante GitHub Pages"
+    ]
+},
+"fr": {
+    "title": "Mon premier {{projet freelance avec React}}",
+    "province": "",
+    "country": "Télétravail",
+    "institution": "Digital-Djerba",
+    "text": "Ce projet représente ma première expérience en freelance avec React — [[Digital-Djerba]], une application e-commerce pour l’achat de fruits et légumes en ligne. Il m’a permis d’appliquer mes compétences en React.js en développant une interface entièrement responsive avec un catalogue de produits, un filtrage par catégorie et un système de panier.",
+    "list": [
+        "Développé avec React.js en utilisant des composants réutilisables",
+        "Design responsive pour mobile et desktop",
+        "Catalogue produits avec filtrage par catégorie et système de panier",
+        "Déployé via GitHub Pages"
+    ]
+}
+                    }
+                },
+                {
+                    "id": 3,
+                    "date": {"year": 2024, "month": 1},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "First {{International Freelance Mission!}}",
+                            "province": "",
+                            "country": "Remote (Canada)",
+                            "institution": "EzHomes",
+                            "text": "A major milestone in my freelance career — I landed my [[first international project]] with EzHomes, a Canadian construction company! Working remotely with a client based in Canada was an enriching experience that helped me develop my communication skills in a professional international context. I developed a complete WordPress website with theme customization, plugin integration and full responsive design.",
+                            "list": []
+                        },
+                        "es": {
+                            "title": "¡Primera {{Misión Freelance Internacional!}}",
+                            "province": "",
+                            "country": "Teletrabajo (Canadá)",
+                            "institution": "EzHomes",
+                            "text": "Un hito importante en mi carrera freelance — ¡conseguí mi [[primer proyecto internacional]] con EzHomes, una empresa de construcción canadiense! Trabajar de forma remota con un cliente en Canadá fue una experiencia enriquecedora que me ayudó a desarrollar mis habilidades de comunicación en un contexto internacional profesional.",
+                            "list": []
+                        },
+                        "fr": {
+                            "title": "Première {{Mission Freelance Internationale!}}",
+                            "province": "",
+                            "country": "Télétravail (Canada)",
+                            "institution": "EzHomes",
+                            "text": "Une étape majeure dans ma carrière freelance — j'ai décroché mon [[premier projet international]] avec EzHomes, une société de construction canadienne ! Travailler à distance avec un client basé au Canada a été une expérience enrichissante qui m'a permis de développer mes compétences en communication dans un contexte international professionnel.",
+                            "list": []
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "date": {"year": 2024, "month": 3},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Joined {{Frigotechnique}} as Web Developer!",
+                            "province": "Charguia 1, Ariana",
+                            "country": "Tunisia",
+                            "institution": "Frigotechnique",
+                            "text": "I'm thrilled to announce that I joined [[Frigotechnique]] as their Web Developer! In this role, I am leading the full redesign and technical optimization of the company's website. My work focuses on performance, security and SEO visibility, including WordPress customization, Google reCAPTCHA v3 integration, PageSpeed optimization and PHP 8 custom development.",
+                            "list": []
+                        },
+                        "es": {
+                            "title": "¡Me uní a {{Frigotechnique}} como Desarrolladora Web!",
+                            "province": "Charguia 1, Ariana",
+                            "country": "Túnez",
+                            "institution": "Frigotechnique",
+                            "text": "¡Me complace anunciar que me uní a [[Frigotechnique]] como desarrolladora web! En este puesto, lidero la renovación completa y la optimización técnica del sitio web de la empresa, con enfoque en rendimiento, seguridad y visibilidad SEO.",
+                            "list": []
+                        },
+                        "fr": {
+                            "title": "Rejoindre {{Frigotechnique}} en tant que Développeuse Web!",
+                            "province": "Charguia 1, Ariana",
+                            "country": "Tunisie",
+                            "institution": "Frigotechnique",
+                            "text": "Je suis ravie d'annoncer que j'ai rejoint [[Frigotechnique]] en tant que développeuse web ! Dans ce rôle, je pilote la refonte complète et l'optimisation technique du site web de l'entreprise, avec un focus sur la performance, la sécurité et la visibilité SEO.",
+                            "list": []
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "date": {"year": 2025, "month": 6},
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/guesmi-rania",
+                                "tooltipString": "see_on_github",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Launched my {{Personal Portfolio!}}",
+                            "province": "Tunis",
+                            "country": "Tunisia",
+                            "institution": "",
+                            "text": "I'm excited to announce the launch of my [[personal portfolio website]]! 🎉 This platform showcases my professional journey, projects and technical skills as a Full Stack Web Developer. It was built with React.js and reflects everything I've learned and accomplished so far. Here's what you can find:",
+                            "list": [
+                                "Full timeline of my professional experiences",
+                                "Showcase of my web projects and freelance missions",
+                                "My technical skills in frontend, backend and databases",
+                                "Contact form and links to my GitHub and LinkedIn"
+                            ]
+                        },
+                        "es": {
+                            "title": "¡Lancé mi {{Portfolio Personal!}}",
+                            "province": "Tunis",
+                            "country": "Túnez",
+                            "institution": "",
+                            "text": "¡Me complace anunciar el lanzamiento de mi [[sitio web de portfolio personal]]! 🎉 Esta plataforma muestra mi trayectoria profesional, proyectos y habilidades técnicas como desarrolladora web Full Stack. Fue construido con React.js y refleja todo lo que he aprendido y logrado hasta ahora.",
+                            "list": [
+                                "Línea de tiempo completa de mis experiencias profesionales",
+                                "Muestra de mis proyectos web y misiones freelance",
+                                "Mis habilidades técnicas en frontend, backend y bases de datos",
+                                "Formulario de contacto y enlaces a mi GitHub y LinkedIn"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Lancement de mon {{Portfolio Personnel!}}",
+                            "province": "Tunis",
+                            "country": "Tunisie",
+                            "institution": "",
+                            "text": "Je suis ravie d'annoncer le lancement de mon [[site portfolio personnel]] ! 🎉 Cette plateforme présente mon parcours professionnel, mes projets et mes compétences techniques en tant que développeuse web Full Stack. Il a été construit avec React.js et reflète tout ce que j'ai appris et accompli jusqu'à présent.",
+                            "list": [
+                                "Chronologie complète de mes expériences professionnelles",
+                                "Vitrine de mes projets web et missions freelance",
+                                "Mes compétences techniques en frontend, backend et bases de données",
+                                "Formulaire de contact et liens vers mon GitHub et LinkedIn"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "date": {"year": 2026, "month": 2},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "IT Mission at {{Digital-tex}} — 3D Integration!",
+                            "province": "Ariana",
+                            "country": "Tunisia",
+                            "institution": "Digital-tex",
+                            "text": "I recently completed a freelance IT mission at [[Digital-tex]], where I handled technical maintenance and brought exciting new features to their website. The highlight of this mission was integrating custom source code to display products in interactive 3D rendering — a first for me and a great technical challenge!",
+                            "list": [
+                                "Bug fixing and database corrections for site stability",
+                                "Plugin installation to boost site speed and clean unnecessary files",
+                                "Cron job setup on HostPapa hosting for automated task scheduling",
+                                "Integration of custom 3D product rendering on the website"
+                            ]
+                        },
+                        "es": {
+                            "title": "¡Misión IT en {{Digital-tex}} — ¡Integración 3D!",
+                            "province": "Ariana",
+                            "country": "Túnez",
+                            "institution": "Digital-tex",
+                            "text": "Recientemente completé una misión freelance de IT en [[Digital-tex]], donde me encargué del mantenimiento técnico y añadí nuevas funcionalidades emocionantes a su sitio web. El punto destacado de esta misión fue la integración de código fuente personalizado para mostrar productos en renderizado 3D interactivo.",
+                            "list": [
+                                "Corrección de errores y ajustes en la base de datos para la estabilidad del sitio",
+                                "Instalación de plugins para acelerar el sitio y eliminar archivos innecesarios",
+                                "Configuración de cron job en el hosting HostPapa para tareas automatizadas",
+                                "Integración de renderizado 3D personalizado de productos en el sitio web"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Mission IT chez {{Digital-tex}} — Intégration 3D !",
+                            "province": "Ariana",
+                            "country": "Tunisie",
+                            "institution": "Digital-tex",
+                            "text": "J'ai récemment complété une mission freelance IT chez [[Digital-tex]], où j'ai assuré la maintenance technique et apporté de nouvelles fonctionnalités au site web. Le point fort de cette mission a été l'intégration d'un code source personnalisé pour afficher les produits en rendu 3D interactif — une première pour moi et un beau défi technique !",
+                            "list": [
+                                "Correction de bugs et ajustements sur la base de données pour la stabilité du site",
+                                "Installation de plugins pour accélérer le site et vider les fichiers inutiles",
+                                "Mise en place d'un cron job sur l'hébergeur HostPapa pour l'automatisation des tâches",
+                                "Intégration d'un rendu 3D personnalisé des produits sur le site web"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

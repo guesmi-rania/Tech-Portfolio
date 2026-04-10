@@ -1,0 +1,347 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Experience",
+                "title_short_nav": "Experience",
+                "title_long_prefix": "Summary of my",
+                "title_long": "{{Work}} Experience"
+            },
+            "fr": {
+                "title_short": "Expérience",
+                "title_short_nav": "Expérience",
+                "title_long_prefix": "Résumé de mon",
+                "title_long": "Parcours {{Professionnel}}"
+            },
+            "es": {
+                "title_short": "Experiencia",
+                "title_short_nav": "Experiencia",
+                "title_long_prefix": "Resumen de mi",
+                "title_long": "Experiencia {{Profesional}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "dateStart"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/pictures/theway.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2021, "month": 2},
+                    "dateEnd": {"year": 2021, "month": 5},
+                    "locales": {
+                        "en": {
+                            "title": "{{Full Stack}} Developer — Internship",
+                            "province": "Montplaisir",
+                            "country": "Tunisia",
+                            "institution": "The Way",
+                            "text": "Designed and developed a [[delivery management application]] using Node.js, React Native, MongoDB and Express.js, with web interface integration and MySQL database management.",
+                            "list": [
+                                "Designed and developed a delivery management app with Node.js, React Native, MongoDB, Express.js",
+                                "Developed and integrated web interfaces with HTML5, CSS3, JavaScript, PHP7, Bootstrap 5",
+                                "Designed and managed MySQL databases; audits and debugging for quality assurance"
+                            ],
+                            "tags": ["Node.js", "React Native", "MongoDB", "Express.js", "MySQL", "PHP7", "Bootstrap 5"]
+                        },
+                        "fr": {
+                            "title": "Développeuse {{Full Stack}} — Stage de Fin d'Études",
+                            "province": "Montplaisir",
+                            "country": "Tunisie",
+                            "institution": "The Way",
+                            "text": "Conception et développement d'une [[application de gestion des livraisons]] avec Node.js, React Native, MongoDB et Express.js, avec intégration d'interfaces web et gestion de bases de données MySQL.",
+                            "list": [
+                                "Conception et développement d'une application de gestion des livraisons avec Node.js, React Native, MongoDB, Express.js",
+                                "Développement et intégration d'interfaces web avec HTML5, CSS3, JavaScript, PHP7, Bootstrap 5",
+                                "Conception et gestion de bases de données MySQL ; audits et débogage pour assurance qualité"
+                            ],
+                            "tags": ["Node.js", "React Native", "MongoDB", "Express.js", "MySQL", "PHP7", "Bootstrap 5"]
+                        },
+                        "es": {
+                            "title": "Desarrolladora {{Full Stack}} — Prácticas",
+                            "province": "Montplaisir",
+                            "country": "Túnez",
+                            "institution": "The Way",
+                            "text": "Diseño y desarrollo de una [[aplicación de gestión de entregas]] con Node.js, React Native, MongoDB y Express.js, con integración de interfaces web y gestión de bases de datos MySQL.",
+                            "list": [
+                                "Diseño y desarrollo de una aplicación de gestión de entregas con Node.js, React Native, MongoDB, Express.js",
+                                "Desarrollo e integración de interfaces web con HTML5, CSS3, JavaScript, PHP7, Bootstrap 5",
+                                "Diseño y gestión de bases de datos MySQL; auditorías y depuración para control de calidad"
+                            ],
+                            "tags": ["Node.js", "React Native", "MongoDB", "Express.js", "MySQL", "PHP7", "Bootstrap 5"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "images/pictures/easyprint.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2023, "month": 1},
+                    "dateEnd": {"year": 2023, "month": 12},
+                    "locales": {
+                        "en": {
+                            "title": "{{Web}} Developer",
+                            "province": "Montplaisir, Tunis",
+                            "country": "Tunisia",
+                            "institution": "EasyPrint",
+                            "text": "Developed and integrated web pages while managing [[MySQL databases]] and tracking performance via Google Analytics 4 and SEO optimization.",
+                            "list": [
+                                "Development and integration of web pages with HTML5, CSS3, JavaScript, PHP7, Java, Bootstrap 5",
+                                "Database design and management with MySQL; audits, testing and debugging",
+                                "Performance tracking via Google Analytics 4 (GA4) and Google Tag Manager",
+                                "SEO maintenance via Google Search Console and optimization of images, cache and content"
+                            ],
+                            "tags": ["HTML5", "CSS3", "JavaScript", "PHP7", "MySQL", "Bootstrap 5", "GA4", "SEO"]
+                        },
+                        "fr": {
+                            "title": "Développeuse {{Web}}",
+                            "province": "Montplaisir, Tunis",
+                            "country": "Tunisie",
+                            "institution": "EasyPrint",
+                            "text": "Développement et intégration de pages web avec gestion de [[bases de données MySQL]] et suivi des performances via Google Analytics 4 et optimisation SEO.",
+                            "list": [
+                                "Développement et intégration de pages web avec HTML5, CSS3, JavaScript, PHP7, Java, Bootstrap 5",
+                                "Conception et gestion de bases de données MySQL ; audits, tests et débogage",
+                                "Suivi des performances via Google Analytics 4 (GA4) et Google Tag Manager",
+                                "Maintenance SEO via Google Search Console et optimisation des images, du cache et du contenu"
+                            ],
+                            "tags": ["HTML5", "CSS3", "JavaScript", "PHP7", "MySQL", "Bootstrap 5", "GA4", "SEO"]
+                        },
+                        "es": {
+                            "title": "Desarrolladora {{Web}}",
+                            "province": "Montplaisir, Tunis",
+                            "country": "Túnez",
+                            "institution": "EasyPrint",
+                            "text": "Desarrollo e integración de páginas web con gestión de [[bases de datos MySQL]] y seguimiento del rendimiento mediante Google Analytics 4 y optimización SEO.",
+                            "list": [
+                                "Desarrollo e integración de páginas web con HTML5, CSS3, JavaScript, PHP7, Java, Bootstrap 5",
+                                "Diseño y gestión de bases de datos MySQL; auditorías, pruebas y depuración",
+                                "Seguimiento del rendimiento con Google Analytics 4 (GA4) y Google Tag Manager",
+                                "Mantenimiento SEO con Google Search Console y optimización de imágenes, caché y contenido"
+                            ],
+                            "tags": ["HTML5", "CSS3", "JavaScript", "PHP7", "MySQL", "Bootstrap 5", "GA4", "SEO"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "images/pictures/digital-djerba.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2023, "month": 3},
+                    "dateEnd": {"year": 2023, "month": 6},
+                    "locales": {
+                        "en": {
+                            "title": "{{React}} Developer — Freelance",
+                            "province": "",
+                            "country": "Remote",
+                            "institution": "Digital-Djerba",
+                            "text": "Designed and developed an [[e-commerce application]] for online fruit and vegetable shopping, with reusable React components and responsive design.",
+                            "list": [
+                                "Designed and developed an e-commerce app for online fruit and vegetable purchases",
+                                "Implemented product catalog, category filtering and shopping cart system",
+                                "Created reusable React components with responsive mobile and desktop design",
+                                "Project management with Git and deployment via GitHub Pages"
+                            ],
+                            "tags": ["React.js", "Git", "GitHub Pages", "CSS3", "Responsive Design"]
+                        },
+                        "fr": {
+                            "title": "Développeuse {{React}} — Freelance",
+                            "province": "",
+                            "country": "Télétravail",
+                            "institution": "Digital-Djerba",
+                            "text": "Conception et développement d'une [[application e-commerce]] pour l'achat de fruits et légumes en ligne, avec composants React réutilisables et design responsive.",
+                            "list": [
+                                "Conception et développement d'une application e-commerce pour l'achat de fruits et légumes en ligne",
+                                "Implémentation du catalogue produits, filtrage par catégorie et système de panier d'achat",
+                                "Création de composants React réutilisables avec design responsive mobile et desktop",
+                                "Gestion du projet avec Git et déploiement via GitHub Pages"
+                            ],
+                            "tags": ["React.js", "Git", "GitHub Pages", "CSS3", "Responsive Design"]
+                        },
+                        "es": {
+                            "title": "Desarrolladora {{React}} — Freelance",
+                            "province": "",
+                            "country": "Teletrabajo",
+                            "institution": "Digital-Djerba",
+                            "text": "Diseño y desarrollo de una [[aplicación e-commerce]] para la compra de frutas y verduras en línea, con componentes React reutilizables y diseño responsive.",
+                            "list": [
+                                "Diseño y desarrollo de una aplicación e-commerce para compra de frutas y verduras en línea",
+                                "Implementación del catálogo de productos, filtrado por categoría y sistema de carrito de compras",
+                                "Creación de componentes React reutilizables con diseño responsive para móvil y escritorio",
+                                "Gestión del proyecto con Git y despliegue mediante GitHub Pages"
+                            ],
+                            "tags": ["React.js", "Git", "GitHub Pages", "CSS3", "Responsive Design"]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "images/pictures/ezhomes.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2024, "month": 1},
+                    "dateEnd": {"year": 2024, "month": 2},
+                    "locales": {
+                        "en": {
+                            "title": "{{WordPress}} Developer — Freelance",
+                            "province": "",
+                            "country": "Remote (Canada)",
+                            "institution": "EzHomes",
+                            "text": "Developed a [[professional WordPress website]] for a Canadian construction company, with theme customization, plugin integration and responsive design across all devices.",
+                            "list": [
+                                "Development of a professional WordPress site for a Canadian construction company",
+                                "Theme customization, plugin integration and responsive design across all devices"
+                            ],
+                            "tags": ["WordPress", "PHP", "CSS3", "Responsive Design", "Plugins"]
+                        },
+                        "fr": {
+                            "title": "Développeuse {{WordPress}} — Freelance",
+                            "province": "",
+                            "country": "Télétravail (Canada)",
+                            "institution": "EzHomes",
+                            "text": "Développement d'un [[site WordPress professionnel]] pour une société de construction canadienne, avec personnalisation du thème, intégration de plugins et design responsive sur tous les appareils.",
+                            "list": [
+                                "Développement d'un site WordPress professionnel pour une société de construction canadienne",
+                                "Personnalisation du thème, intégration de plugins et design responsive sur tous les appareils"
+                            ],
+                            "tags": ["WordPress", "PHP", "CSS3", "Responsive Design", "Plugins"]
+                        },
+                        "es": {
+                            "title": "Desarrolladora {{WordPress}} — Freelance",
+                            "province": "",
+                            "country": "Teletrabajo (Canadá)",
+                            "institution": "EzHomes",
+                            "text": "Desarrollo de un [[sitio WordPress profesional]] para una empresa de construcción canadiense, con personalización del tema, integración de plugins y diseño responsive en todos los dispositivos.",
+                            "list": [
+                                "Desarrollo de un sitio WordPress profesional para una empresa de construcción canadiense",
+                                "Personalización del tema, integración de plugins y diseño responsive en todos los dispositivos"
+                            ],
+                            "tags": ["WordPress", "PHP", "CSS3", "Responsive Design", "Plugins"]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "images/pictures/frigotechnique.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2024, "month": 3},
+                    "dateEnd": {"year": 2026, "month": 1},
+                    "locales": {
+                        "en": {
+                            "title": "{{Web}} Developer",
+                            "province": "Charguia 1, Ariana",
+                            "country": "Tunisia",
+                            "institution": "Frigotechnique",
+                            "text": "Leading the [[full redesign and optimization]] of the WordPress site, with a focus on performance, security and SEO visibility.",
+                            "list": [
+                                "WordPress site redesign with new theme and CSS customization",
+                                "Performance analysis and optimization via Google PageSpeed Insights (cache, images, database)",
+                                "Site security setup with Google reCAPTCHA v3",
+                                "SEO optimization and backlink analysis; visibility maintained via Google Search Console",
+                                "WordPress plugin installation, configuration and maintenance; update management",
+                                "Technical adjustments and custom modifications via PHP 8"
+                            ],
+                            "tags": ["WordPress", "PHP 8", "CSS3", "SEO", "Google Analytics", "reCAPTCHA", "PageSpeed"]
+                        },
+                        "fr": {
+                            "title": "Développeuse {{Web}}",
+                            "province": "Charguia 1, Ariana",
+                            "country": "Tunisie",
+                            "institution": "Frigotechnique",
+                            "text": "Pilotage de la [[refonte complète et de l'optimisation]] du site WordPress, avec focus sur la performance, la sécurité et la visibilité SEO.",
+                            "list": [
+                                "Refonte du site WordPress avec un nouveau thème et personnalisation CSS",
+                                "Analyse et optimisation des performances via Google PageSpeed Insights (cache, images, base de données)",
+                                "Mise en place de la sécurité du site avec Google reCAPTCHA v3",
+                                "Optimisation SEO et analyse des backlinks ; maintien de la visibilité via Google Search Console",
+                                "Installation, configuration et maintenance des plugins WordPress ; gestion des mises à jour",
+                                "Ajustements techniques et modifications personnalisées via PHP 8"
+                            ],
+                            "tags": ["WordPress", "PHP 8", "CSS3", "SEO", "Google Analytics", "reCAPTCHA", "PageSpeed"]
+                        },
+                        "es": {
+                            "title": "Desarrolladora {{Web}}",
+                            "province": "Charguia 1, Ariana",
+                            "country": "Túnez",
+                            "institution": "Frigotechnique",
+                            "text": "Dirección de la [[renovación completa y optimización]] del sitio WordPress, con enfoque en rendimiento, seguridad y visibilidad SEO.",
+                            "list": [
+                                "Rediseño del sitio WordPress con nuevo tema y personalización CSS",
+                                "Análisis y optimización del rendimiento con Google PageSpeed Insights (caché, imágenes, base de datos)",
+                                "Configuración de la seguridad del sitio con Google reCAPTCHA v3",
+                                "Optimización SEO y análisis de backlinks; mantenimiento de visibilidad con Google Search Console",
+                                "Instalación, configuración y mantenimiento de plugins WordPress; gestión de actualizaciones",
+                                "Ajustes técnicos y modificaciones personalizadas mediante PHP 8"
+                            ],
+                            "tags": ["WordPress", "PHP 8", "CSS3", "SEO", "Google Analytics", "reCAPTCHA", "PageSpeed"]
+                        }
+                    }
+                },
+                {
+    "id": 6,
+    "img": "images/pictures/digital-tex.png",
+    "faIcon": "",
+    "faIconColors": {"bg": "", "fill": ""},
+    "dateStart": {"year": 2026, "month": 2},
+    "dateEnd": {"year": 2026, "month": 3},
+    "locales": {
+        "en": {
+            "title": "{{IT}} Manager — Freelance",
+            "province": "Ariana",
+            "country": "Tunisia",
+            "institution": "Digital-tex",
+            "text": "Managed [[technical maintenance and optimization]] of the website, including database corrections, performance improvements and 3D product integration.",
+            "list": [
+                "Bug fixing and database corrections to ensure site stability and data integrity",
+                "Installation and configuration of plugins to accelerate site loading and clean unnecessary files",
+                "Setup of a cron job on HostPapa hosting for automated task scheduling",
+                "Integration of custom source code to display products in interactive 3D rendering"
+            ],
+            "tags": ["WordPress", "PHP", "MySQL", "Cron", "HostPapa", "3D", "Plugins", "Performance"]
+        },
+        "fr": {
+            "title": "Responsable {{IT}} — Freelance",
+            "province": "Ariana",
+            "country": "Tunisie",
+            "institution": "Digital-tex",
+            "text": "Gestion de la [[maintenance technique et de l'optimisation]] du site web, incluant les corrections de base de données, l'amélioration des performances et l'intégration de produits en 3D.",
+            "list": [
+                "Correction de bugs et ajustements sur la base de données pour assurer la stabilité du site et l'intégrité des données",
+                "Installation et configuration de plugins pour accélérer le chargement du site et vider les fichiers inutiles",
+                "Mise en place d'un cron job sur l'hébergeur HostPapa pour l'automatisation des tâches planifiées",
+                "Intégration d'un code source personnalisé pour afficher les produits en rendu 3D interactif"
+            ],
+            "tags": ["WordPress", "PHP", "MySQL", "Cron", "HostPapa", "3D", "Plugins", "Performance"]
+        },
+        "es": {
+            "title": "Responsable {{IT}} — Freelance",
+            "province": "Ariana",
+            "country": "Túnez",
+            "institution": "Digital-tex",
+            "text": "Gestión del [[mantenimiento técnico y la optimización]] del sitio web, incluyendo correcciones de base de datos, mejoras de rendimiento e integración de productos en 3D.",
+            "list": [
+                "Corrección de errores y ajustes en la base de datos para garantizar la estabilidad del sitio y la integridad de los datos",
+                "Instalación y configuración de plugins para acelerar la carga del sitio y eliminar archivos innecesarios",
+                "Configuración de un cron job en el hosting HostPapa para la automatización de tareas programadas",
+                "Integración de código fuente personalizado para mostrar productos en renderizado 3D interactivo"
+            ],
+            "tags": ["WordPress", "PHP", "MySQL", "Cron", "HostPapa", "3D", "Plugins", "Performance"]
+        }
+    }
+}
+            ]
+        }
+    ]
+}
