@@ -1,5 +1,5 @@
 <p align="center">
-![6375787](https://github.com/user-attachments/assets/3da4a7f8-6690-4403-9d48-1f2910e657b8)
+![programming png](https://github.com/user-attachments/assets/90f0a4d0-fe72-4ef7-bb55-36ec60c5df6f)
 </p>
 
 # 🚀 Rania Guesmi - React Portfolio
