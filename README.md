@@ -1,4 +1,4 @@
-![programming](https://github.com/user-attachments/assets/c55e4ae6-6eb9-4507-a243-657d38157fd9)
+<img width="150" height="122" alt="programming" src="https://github.com/user-attachments/assets/72f57057-d45b-441f-b0d9-95ce81b9ce20" />
 
 
 # 🚀 Rania Guesmi -My Portfolio
