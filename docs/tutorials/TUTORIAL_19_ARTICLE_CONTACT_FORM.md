@@ -12,7 +12,7 @@ The contact form component integrates `EmailJS`. EmailJS is a free service that 
 
 To configure your EmailJS integration, follow these steps:
 
-- Create a free EmailJS account (https://www.emailjs.com/)
+- Create a free EmailJS account (https://www.formspree.com/)
 - In your EmailJS account panel, create an email service, which configures the provider that will send the emails (e.g., a Gmail or iCloud account).
 - Next, on your dashboard, create a new ``Contact Us`` email template.
 - On the template edit page, set a subject like: ``React Portfolio - New message from {{name}}``

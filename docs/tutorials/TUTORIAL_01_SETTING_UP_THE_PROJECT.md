@@ -9,7 +9,7 @@ Before we dive in, make sure you have the following installed:
 
 1. Clone the repo:
 ```
-git clone https://github.com/ryanbalieiro/react-portfolio-template
+git clone https://github.com/guesmi-rania/Tech-Portfolio
 ```
 
 2. Go to the project's root folder and use npm to install all required components:
