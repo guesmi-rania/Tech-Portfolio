@@ -77,17 +77,17 @@
                     },
                     "locales": {
                    "en": {
-                    "title": "ShopPilot – E-commerce Dashboard",
+                    "title": "ShopPilot – Dashboard",
                     "text": "A full-stack <b>e-commerce dashboard</b> built with <b>React, Node.js</b> and <b>Docker</b>. It allows managing products, orders, and alerts in real time. The platform includes authentication, RESTful APIs, and a scalable architecture designed for performance and efficient business management.",
                    "tags": ["E-commerce", "Full Stack", "Dashboard", "Docker", "API"]
                          },
                    "es": {
-                     "title": "ShopPilot – Panel de E-commerce",
+                     "title": "ShopPilot – Panel",
                       "text": "Un <b>dashboard de e-commerce</b> full stack desarrollado con <b>React, Node.js</b> y <b>Docker</b>. Permite gestionar productos, pedidos y alertas en tiempo real. Incluye autenticación, APIs REST y una arquitectura escalable orientada al rendimiento.",
                       "tags": ["E-commerce", "Full Stack", "Dashboard", "Docker", "API"]
                          },
                    "fr": {
-                      "title": "ShopPilot – Dashboard E-commerce",
+                      "title": "ShopPilot – Dashboard",
                       "text": "Un <b>dashboard e-commerce full stack</b> développé avec <b>React, Node.js</b> et <b>Docker</b>. Il permet de gérer les produits, les commandes et les alertes en temps réel. La plateforme inclut l’authentification, des APIs REST et une architecture scalable optimisée pour la performance.",
                       "tags": ["E-commerce", "Full Stack", "Dashboard", "Docker", "API"]
                          }
