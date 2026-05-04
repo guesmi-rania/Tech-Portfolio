@@ -210,7 +210,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-node-js",
                     "faIconColors": {"bg": "", "fill": "#339933"},
-                    "percentage": 80,
+                    "percentage": 90,
                     "locales": {
                         "en": {
                             "title": "Node.js / Express",
@@ -230,7 +230,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-php",
                     "faIconColors": {"bg": "", "fill": "#4F5B93"},
-                    "percentage": 90,
+                    "percentage": 95,
                     "locales": {
                         "en": {
                             "title": "PHP 8",
@@ -270,7 +270,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-server",
                     "faIconColors": {"bg": "", "fill": "#47A248"},
-                    "percentage": 70,
+                    "percentage": 80,
                     "locales": {
                         "en": {
                             "title": "MongoDB",
@@ -310,7 +310,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-python",
                     "faIconColors": {"bg": "", "fill": "#306998"},
-                    "percentage": 60,
+                    "percentage": 90,
                     "locales": {
                         "en": {
                             "title": "Python",
@@ -330,7 +330,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-docker",
                     "faIconColors": {"bg": "", "fill": "#2496ED"},
-                    "percentage": 55,
+                    "percentage": 75,
                     "locales": {
                         "en": {
                             "title": "Docker",
@@ -469,7 +469,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-angular",
                     "faIconColors": {"bg": "", "fill": "#c90913"},
-                    "percentage": 70,
+                    "percentage": 85,
                     "locales": {
                         "en": {
                             "title": "Angular",
@@ -528,7 +528,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-mobile-screen-button",
                     "faIconColors": {"bg": "", "fill": "#02569B"},
-                    "percentage": 75,
+                    "percentage": 90,
                     "locales": {
                         "en": {
                             "title": "Flutter (Dart)",
@@ -548,7 +548,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-react",
                     "faIconColors": {"bg": "", "fill": "#61DAFB", "fillLight": "#317385"},
-                    "percentage": 70,
+                    "percentage": 95,
                     "locales": {
                         "en": {
                             "title": "React Native",
@@ -607,7 +607,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-cart-shopping",
                     "faIconColors": {"bg": "", "fill": "#DF0067"},
-                    "percentage": 75,
+                    "percentage": 90,
                     "locales": {
                         "en": {
                             "title": "Prestashop",
@@ -627,7 +627,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-shopify",
                     "faIconColors": {"bg": "", "fill": "#96BF48"},
-                    "percentage": 65,
+                    "percentage": 95,
                     "locales": {
                         "en": {
                             "title": "Shopify",
@@ -666,7 +666,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-magnifying-glass",
                     "faIconColors": {"bg": "", "fill": "#4285F4"},
-                    "percentage": 85,
+                    "percentage": 95,
                     "locales": {
                         "en": {
                             "title": "SEO",
@@ -686,7 +686,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-chart-line",
                     "faIconColors": {"bg": "", "fill": "#E37400"},
-                    "percentage": 80,
+                    "percentage": 90,
                     "locales": {
                         "en": {
                             "title": "Google Analytics 4",
@@ -706,7 +706,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-gauge-high",
                     "faIconColors": {"bg": "", "fill": "#34A853"},
-                    "percentage": 80,
+                    "percentage": 90,
                     "locales": {
                         "en": {
                             "title": "PageSpeed & Performance",
@@ -745,7 +745,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-arrows-spin",
                     "faIconColors": {"bg": "", "fill": "#0052CC"},
-                    "percentage": 80,
+                    "percentage": 90,
                     "locales": {
                         "en": {
                             "title": "Agile / Scrum",
@@ -765,7 +765,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-vial",
                     "faIconColors": {"bg": "", "fill": "#FF6C37"},
-                    "percentage": 75,
+                    "percentage": 85,
                     "locales": {
                         "en": {
                             "title": "Postman",
@@ -785,7 +785,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-paintbrush",
                     "faIconColors": {"bg": "", "fill": "#31A8FF"},
-                    "percentage": 70,
+                    "percentage": 80,
                     "locales": {
                         "en": {
                             "title": "Photoshop / Illustrator",
