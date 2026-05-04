@@ -56,6 +56,47 @@
                     "id": 1,
                     "categoryId": "category_web",
                      "img": "",
+                    "faIcon": "fa-solid fa-chart-line",
+                    "faIconColors": {"bg": "#00E5A0", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/guesmi-rania/shoppilot", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://shoppilot-qpyj.vercel.app", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo-landscape-42.png",
+                            "images/pictures/screenshot-demo-landscape-43.png",
+                            "images/pictures/screenshot-demo-landscape-44.png",
+                            "images/pictures/screenshot-demo-landscape-45.png",
+                            "images/pictures/screenshot-demo-landscape-46.png",
+                            "images/pictures/screenshot-demo-landscape-47.png",
+                            "images/pictures/screenshot-demo-landscape-48.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                   "en": {
+                    "title": "ShopPilot – E-commerce Dashboard",
+                    "text": "A full-stack <b>e-commerce dashboard</b> built with <b>React, Node.js</b> and <b>Docker</b>. It allows managing products, orders, and alerts in real time. The platform includes authentication, RESTful APIs, and a scalable architecture designed for performance and efficient business management.",
+                   "tags": ["E-commerce", "Full Stack", "Dashboard", "Docker", "API"]
+                         },
+                   "es": {
+                     "title": "ShopPilot – Panel de E-commerce",
+                      "text": "Un <b>dashboard de e-commerce</b> full stack desarrollado con <b>React, Node.js</b> y <b>Docker</b>. Permite gestionar productos, pedidos y alertas en tiempo real. Incluye autenticación, APIs REST y una arquitectura escalable orientada al rendimiento.",
+                      "tags": ["E-commerce", "Full Stack", "Dashboard", "Docker", "API"]
+                         },
+                   "fr": {
+                      "title": "ShopPilot – Dashboard E-commerce",
+                      "text": "Un <b>dashboard e-commerce full stack</b> développé avec <b>React, Node.js</b> et <b>Docker</b>. Il permet de gérer les produits, les commandes et les alertes en temps réel. La plateforme inclut l’authentification, des APIs REST et une architecture scalable optimisée pour la performance.",
+                      "tags": ["E-commerce", "Full Stack", "Dashboard", "Docker", "API"]
+                         }
+                    }
+                },
+                {
+                    "id": 2,
+                    "categoryId": "category_web",
+                     "img": "",
                     "faIcon": "fa-solid fa-truck-fast",
                     "faIconColors": {"bg": "#d4cf3d", "fill": "#EEEEEE"},
                     "preview": {
@@ -87,7 +128,7 @@
                     }
                 },
                 {
-                    "id": 2,
+                    "id": 3,
                     "categoryId": "category_apps",
                     "img": "",
                     "faIcon": "fa-solid fa-briefcase-medical",
@@ -128,7 +169,7 @@
                  }
                 },
                 {
-                    "id": 3,
+                    "id": 4,
                     "categoryId": "category_web",
                     "img": "images/pictures/portfolio-project-logo-6.png",
                     "faIcon": "",
@@ -174,7 +215,7 @@
                     }
                 },
                 {
-                    "id": 4,
+                    "id": 5,
                     "categoryId": "category_web",
                     "img": "",
                     "faIcon": "fa-solid fa-screwdriver-wrench",
@@ -214,7 +255,7 @@
                     }
                 },
                 {
-                    "id": 5,
+                    "id": 6,
                     "categoryId": "category_web",
                     "img": "",
                     "faIcon": "fa-solid fa-bag-shopping",
@@ -261,7 +302,7 @@
                     }
                 },
                 {
-                    "id": 6,
+                    "id": 7,
                     "categoryId": "category_web",
                     "img": "images/pictures/portfolio-project-logo-5.png",
                     "faIcon": "",
@@ -296,7 +337,7 @@
                     }
                 },
                 {
-                    "id": 7,
+                    "id": 8,
                     "categoryId": "category_apps",
                     "img": "",
                     "faIcon": "fa-solid fa-comments",
@@ -330,7 +371,7 @@
                     }
                 },
                 {
-                    "id": 8,
+                    "id": 9,
                     "categoryId": "category_utilities",
                     "img": "images/pictures/portfolio-project-logo-4.png",
                     "faIcon": "",
@@ -368,7 +409,7 @@
                 }          
                 },
                 {
-                    "id": 9,
+                    "id": 10,
                     "categoryId": "category_apps",
                     "img": "",
                     "faIcon": "fa-solid fa-cubes",
