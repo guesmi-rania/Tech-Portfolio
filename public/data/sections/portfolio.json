@@ -57,7 +57,7 @@
                     "categoryId": "category_web",
                      "img": "",
                     "faIcon": "fa-solid fa-chart-line",
-                    "faIconColors": {"bg": "#00E5A0", "fill": "#EEEEEE"},
+                    "faIconColors": {"bg": "#158f6b", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
                             {"href": "https://github.com/guesmi-rania/shoppilot", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
