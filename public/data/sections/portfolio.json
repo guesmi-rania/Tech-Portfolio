@@ -60,8 +60,8 @@
                     "faIconColors": {"bg": "#ff297b", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com/guesmi-rania/shoppilot", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
-                            {"href": "https://github.com/guesmi-rania/docly-mobile/releases/tag/v1.0.0", "tooltipString": "download_app", "faIcon": "fa-brands fa-google-play"}
+                            {"href": "https://github.com/guesmi-rania/MindMaze.git", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://github.com/guesmi-rania/MindMaze.git", "tooltipString": "download_app", "faIcon": "fa-brands fa-google-play"}
                         ],
                         "screenshots": [
                             "images/pictures/screenshot-demo-portrait-13.png",
