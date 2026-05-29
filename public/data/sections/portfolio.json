@@ -54,6 +54,52 @@
             "items": [
                 {
                     "id": 1,
+                    "categoryId": "category_apps",
+                     "img": "",
+                    "faIcon": "fa-solid fa-brain",
+                    "faIconColors": {"bg": "#ff297b", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/guesmi-rania/shoppilot", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://github.com/guesmi-rania/docly-mobile/releases/tag/v1.0.0", "tooltipString": "download_app", "faIcon": "fa-brands fa-google-play"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo-portrait-13.png",
+                            "images/pictures/screenshot-demo-portrait-14.png",
+                            "images/pictures/screenshot-demo-portrait-15.png",
+                            "images/pictures/screenshot-demo-portrait-16.png",
+                            "images/pictures/screenshot-demo-portrait-17.png",
+                            "images/pictures/screenshot-demo-portrait-18.png",
+                            "images/pictures/screenshot-demo-portrait-19.png",
+                            "images/pictures/screenshot-demo-portrait-20.png",
+                            "images/pictures/screenshot-demo-portrait-21.png",
+                            "images/pictures/screenshot-demo-portrait-22.png",
+                            "images/pictures/screenshot-demo-portrait-23.png",
+                            "images/pictures/screenshot-demo-portrait-24.png"
+                        ],
+                        "screenshotsAspectRatio": "9:16",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                     "en": {
+                     "title": "MindMaze – Cognitive Puzzle App",
+                     "text": "A mobile <b>puzzle and brain training app</b> built with <b>React Native (Expo)</b>, <b>Node.js</b> and <b>MongoDB</b>. It includes 4 game modes (Memory, Sequence, Speed, Quick Math), progression system (XP, levels, streaks), achievements, global leaderboard, and JWT authentication. Designed to improve cognitive skills through interactive gameplay.",
+                     "tags": ["Mobile App", "React Native", "Game", "Full Stack", "MongoDB", "Expo"]
+                           },
+                     "es": {
+                     "title": "MindMaze – Juego Cognitivo",
+                     "text": "Una <b>aplicación móvil de puzzles mentales</b> desarrollada con <b>React Native (Expo)</b>, <b>Node.js</b> y <b>MongoDB</b>. Incluye 4 modos de juego, sistema de progreso (XP, niveles), logros, ranking global y autenticación JWT.",
+                     "tags": ["App móvil", "React Native", "Juego", "Full Stack", "MongoDB", "Expo"]
+                           },
+                     "fr": {
+                     "title": "MindMaze – Jeu Cognitif Mobile",
+                     "text": "Une <b>application mobile de jeux cognitifs</b> développée avec <b>React Native (Expo)</b>, <b>Node.js</b> et <b>MongoDB</b>. Elle propose 4 modes de jeu, un système de progression (XP, niveaux, streaks), des achievements, un leaderboard global et une authentification JWT.",
+                     "tags": ["Application mobile", "React Native", "Jeu", "Full Stack", "MongoDB", "Expo"]
+                           }
+                    }
+                },
+                {
+                    "id": 2,
                     "categoryId": "category_web",
                      "img": "",
                     "faIcon": "fa-solid fa-chart-line",
@@ -94,7 +140,7 @@
                     }
                 },
                 {
-                    "id": 2,
+                    "id": 3,
                     "categoryId": "category_web",
                      "img": "",
                     "faIcon": "fa-solid fa-truck-fast",
@@ -128,7 +174,7 @@
                     }
                 },
                 {
-                    "id": 3,
+                    "id": 4,
                     "categoryId": "category_apps",
                     "img": "",
                     "faIcon": "fa-solid fa-briefcase-medical",
@@ -169,7 +215,7 @@
                  }
                 },
                 {
-                    "id": 4,
+                    "id": 5,
                     "categoryId": "category_web",
                     "img": "images/pictures/portfolio-project-logo-6.png",
                     "faIcon": "",
@@ -215,7 +261,7 @@
                     }
                 },
                 {
-                    "id": 5,
+                    "id": 6,
                     "categoryId": "category_web",
                     "img": "",
                     "faIcon": "fa-solid fa-screwdriver-wrench",
@@ -255,7 +301,7 @@
                     }
                 },
                 {
-                    "id": 6,
+                    "id": 7,
                     "categoryId": "category_web",
                     "img": "",
                     "faIcon": "fa-solid fa-bag-shopping",
@@ -302,7 +348,7 @@
                     }
                 },
                 {
-                    "id": 7,
+                    "id": 8,
                     "categoryId": "category_web",
                     "img": "images/pictures/portfolio-project-logo-5.png",
                     "faIcon": "",
@@ -337,7 +383,7 @@
                     }
                 },
                 {
-                    "id": 8,
+                    "id": 9,
                     "categoryId": "category_apps",
                     "img": "",
                     "faIcon": "fa-solid fa-comments",
@@ -371,7 +417,7 @@
                     }
                 },
                 {
-                    "id": 9,
+                    "id": 10,
                     "categoryId": "category_utilities",
                     "img": "images/pictures/portfolio-project-logo-4.png",
                     "faIcon": "",
@@ -409,7 +455,7 @@
                 }          
                 },
                 {
-                    "id": 10,
+                    "id": 11,
                     "categoryId": "category_apps",
                     "img": "",
                     "faIcon": "fa-solid fa-cubes",
