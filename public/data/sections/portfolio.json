@@ -57,7 +57,7 @@
                     "categoryId": "category_apps",
                      "img": "",
                     "faIcon": "fa-solid fa-brain",
-                    "faIconColors": {"bg": "#ff297b", "fill": "#EEEEEE"},
+                    "faIconColors": {"bg": "#FEB5B7", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
                             {"href": "https://github.com/guesmi-rania/MindMaze.git", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
