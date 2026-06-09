@@ -340,7 +340,60 @@
             "tags": ["WordPress", "PHP", "MySQL", "Cron", "HostPapa", "3D", "Plugins", "Performance"]
         }
     }
+},
+{
+    "id": 7,
+    "img": "images/pictures/palweb.png",
+    "faIcon": "",
+    "faIconColors": {"bg": "", "fill": ""},
+    "dateStart": {"year": 2026, "month": 5},
+    "dateEnd": {"year": 2026, "month": 6},
+    "locales": {
+        "en": {
+            "title": "Full Stack Developer — Freelance",
+            "province": "Remote",
+            "country": "International",
+            "institution": "PalWeb",
+            "text": "Worked on the [[development and refactoring]] of the web platform, including backend improvements, frontend optimization and feature integration.",
+            "list": [
+                "Refactored backend architecture and optimized API structure for better maintainability",
+                "Developed and improved frontend interfaces with responsive and user-friendly components",
+                "Integrated new features and fixed bugs to enhance platform stability and performance",
+                "Collaborated through GitHub Pull Requests and version control workflows"
+            ],
+            "tags": ["Laravel", "PHP", "Vue.js", "JavaScript", "API", "GitHub", "Frontend", "Backend"]
+        },
+        "fr": {
+            "title": "Développeuse Full Stack — Freelance",
+            "province": "À distance",
+            "country": "International",
+            "institution": "PalWeb",
+            "text": "Participation au [[développement et à la refonte]] de la plateforme web, incluant l'amélioration du backend, l'optimisation du frontend et l'intégration de nouvelles fonctionnalités.",
+            "list": [
+                "Refonte de l'architecture backend et optimisation de la structure des API pour une meilleure maintenabilité",
+                "Développement et amélioration des interfaces frontend avec des composants responsives et intuitifs",
+                "Intégration de nouvelles fonctionnalités et correction de bugs afin d'améliorer la stabilité et les performances",
+                "Collaboration via GitHub Pull Requests et gestion de versions"
+            ],
+            "tags": ["Laravel", "PHP", "Vue.js", "JavaScript", "API", "GitHub", "Frontend", "Backend"]
+        },
+        "es": {
+            "title": "Desarrolladora Full Stack — Freelance",
+            "province": "Remoto",
+            "country": "Internacional",
+            "institution": "PalWeb",
+            "text": "Participación en el [[desarrollo y la refactorización]] de la plataforma web, incluyendo mejoras backend, optimización frontend e integración de funcionalidades.",
+            "list": [
+                "Refactorización de la arquitectura backend y optimización de la estructura de las API para una mejor mantenibilidad",
+                "Desarrollo y mejora de interfaces frontend con componentes responsivos y fáciles de usar",
+                "Integración de nuevas funcionalidades y corrección de errores para mejorar la estabilidad y el rendimiento",
+                "Colaboración mediante GitHub Pull Requests y flujos de control de versiones"
+            ],
+            "tags": ["Laravel", "PHP", "Vue.js", "JavaScript", "API", "GitHub", "Frontend", "Backend"]
+        }
+    }
 }
+
             ]
         }
     ]
