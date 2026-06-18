@@ -297,48 +297,48 @@
     "dateStart": {"year": 2026, "month": 2},
     "dateEnd": {"year": 2026, "month": 3},
     "locales": {
-        "en": {
-            "title": "{{IT}} Manager — Freelance",
-            "province": "Ariana",
-            "country": "Tunisia",
-            "institution": "Digital-tex",
-            "text": "Managed [[technical maintenance and optimization]] of the website, including database corrections, performance improvements and 3D product integration.",
-            "list": [
-                "Bug fixing and database corrections to ensure site stability and data integrity",
-                "Installation and configuration of plugins to accelerate site loading and clean unnecessary files",
-                "Setup of a cron job on HostPapa hosting for automated task scheduling",
-                "Integration of custom source code to display products in interactive 3D rendering"
-            ],
-            "tags": ["WordPress", "PHP", "MySQL", "Cron", "HostPapa", "3D", "Plugins", "Performance"]
-        },
-        "fr": {
-            "title": "Responsable {{IT}} — Freelance",
-            "province": "Ariana",
-            "country": "Tunisie",
-            "institution": "Digital-tex",
-            "text": "Gestion de la [[maintenance technique et de l'optimisation]] du site web, incluant les corrections de base de données, l'amélioration des performances et l'intégration de produits en 3D.",
-            "list": [
-                "Correction de bugs et ajustements sur la base de données pour assurer la stabilité du site et l'intégrité des données",
-                "Installation et configuration de plugins pour accélérer le chargement du site et vider les fichiers inutiles",
-                "Mise en place d'un cron job sur l'hébergeur HostPapa pour l'automatisation des tâches planifiées",
-                "Intégration d'un code source personnalisé pour afficher les produits en rendu 3D interactif"
-            ],
-            "tags": ["WordPress", "PHP", "MySQL", "Cron", "HostPapa", "3D", "Plugins", "Performance"]
-        },
-        "es": {
-            "title": "Responsable {{IT}} — Freelance",
-            "province": "Ariana",
-            "country": "Túnez",
-            "institution": "Digital-tex",
-            "text": "Gestión del [[mantenimiento técnico y la optimización]] del sitio web, incluyendo correcciones de base de datos, mejoras de rendimiento e integración de productos en 3D.",
-            "list": [
-                "Corrección de errores y ajustes en la base de datos para garantizar la estabilidad del sitio y la integridad de los datos",
-                "Instalación y configuración de plugins para acelerar la carga del sitio y eliminar archivos innecesarios",
-                "Configuración de un cron job en el hosting HostPapa para la automatización de tareas programadas",
-                "Integración de código fuente personalizado para mostrar productos en renderizado 3D interactivo"
-            ],
-            "tags": ["WordPress", "PHP", "MySQL", "Cron", "HostPapa", "3D", "Plugins", "Performance"]
-        }
+       "en": {
+    "title": "{{IT}} Manager — Freelance",
+    "province": "Ariana",
+    "country": "Tunisia",
+    "institution": "Digital-tex",
+    "text": "Managed [[technical maintenance and optimization]] of the Shopify store, including Liquid template customization for textile products, performance improvements and dynamic catalog management.",
+    "list": [
+        "Shopify store customization for textile products — modification of Liquid templates to display variants (colors, sizes, materials)",
+        "Integration of performance plugins — caching, image compression and lazy loading to improve site speed",
+        "Creation of Liquid sections and snippets — reusable components tailored to the visual needs of textile collections",
+        "Product catalog management — variants, collection filters and dynamic pricing for large inventories"
+    ],
+    "tags": ["Shopify", "Liquid", "Variants", "Performance", "Plugins", "Snippets", "Catalog", "Textile"]
+},
+"fr": {
+    "title": "Responsable {{IT}} — Freelance",
+    "province": "Ariana",
+    "country": "Tunisie",
+    "institution": "Digital-tex",
+    "text": "Gestion de la [[maintenance technique et de l'optimisation]] de la boutique Shopify, incluant la personnalisation de templates Liquid pour des produits textiles, l'amélioration des performances et la gestion de catalogues dynamiques.",
+    "list": [
+        "Personnalisation de boutiques Shopify pour des produits textiles — modification des templates Liquid pour afficher les variantes (couleurs, tailles, matières)",
+        "Intégration de plugins de performance — mise en cache, compression d'images et lazy loading pour améliorer la vitesse du site",
+        "Création de sections et snippets Liquid — composants réutilisables adaptés aux besoins visuels des collections textiles",
+        "Gestion des catalogues produits — variantes, filtres de collections et prix dynamiques pour des inventaires volumineux"
+    ],
+    "tags": ["Shopify", "Liquid", "Variantes", "Performance", "Plugins", "Snippets", "Catalogue", "Textile"]
+},
+"es": {
+    "title": "Responsable {{IT}} — Freelance",
+    "province": "Ariana",
+    "country": "Túnez",
+    "institution": "Digital-tex",
+    "text": "Gestión del [[mantenimiento técnico y la optimización]] de la tienda Shopify, incluyendo personalización de templates Liquid para productos textiles, mejoras de rendimiento y gestión de catálogos dinámicos.",
+    "list": [
+        "Personalización de tiendas Shopify para productos textiles — modificación de templates Liquid para mostrar variantes (colores, tallas, materiales)",
+        "Integración de plugins de rendimiento — caché, compresión de imágenes y lazy loading para mejorar la velocidad del sitio",
+        "Creación de secciones y snippets Liquid — componentes reutilizables adaptados a las necesidades visuales de las colecciones textiles",
+        "Gestión de catálogos de productos — variantes, filtros de colecciones y precios dinámicos para inventarios voluminosos"
+    ],
+    "tags": ["Shopify", "Liquid", "Variantes", "Rendimiento", "Plugins", "Snippets", "Catálogo", "Textil"]
+}
     }
 },
 {
