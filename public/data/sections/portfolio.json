@@ -490,7 +490,81 @@
                             "tags": ["Flutter", "Mobile", "Stock"]
                         }
                     }
-                }
+                },
+                {
+    "id": 12,
+    "categoryId": "category_apps",
+    "img": "images/pictures/portfolio-project-logo-7.png",
+    "faIcon": "",
+    "faIconColors": {"bg": "", "fill": ""},
+    "preview": {
+        "links": [
+            {"href": "https://github.com/guesmi-rania/signalboard", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+            {"href": "https://guesmi-rania.github.io/signalboard/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+        ],
+        "screenshots": [
+            "images/pictures/screenshot-demo-landscape-49.png"
+        ],
+        "screenshotsAspectRatio": "16:9"
+    },
+    "locales": {
+        "en": {
+            "title": "SignalBoard – Tech Trend Radar",
+            "text": "A live tech trend radar built with the <b>MERN</b> stack, scoring rising frontend, backend, and tooling technologies from <b>GitHub</b>, <b>npm</b>, and <b>Hacker News</b> activity in real time.",
+            "tags": ["MERN", "Dashboard", "Trend Tracking"]
+        },
+        "es": {
+            "title": "SignalBoard – Radar de Tendencias Tech",
+            "text": "Un radar de tendencias tecnológicas en tiempo real desarrollado con <b>MERN</b>, que puntúa tecnologías emergentes de frontend, backend y herramientas a partir de la actividad en <b>GitHub</b>, <b>npm</b> y <b>Hacker News</b>.",
+            "tags": ["MERN", "Dashboard", "Tendencias"]
+        },
+        "fr": {
+            "title": "SignalBoard – Radar des Tendances Tech",
+            "text": "Un radar de tendances technologiques en temps réel développé avec <b>MERN</b>, évaluant les technologies émergentes en frontend, backend et outillage à partir de l'activité <b>GitHub</b>, <b>npm</b> et <b>Hacker News</b>.",
+            "tags": ["MERN", "Dashboard", "Tendances"]
+        }
+    }
+},
+{
+    "id": 13,
+    "categoryId": "category_web",
+    "img": "",
+    "faIcon": "fa-solid fa-diagram-project",
+    "faIconColors": {"bg": "#1F6F76", "fill": "#EEEEEE"},
+    "preview": {
+        "links": [
+            {"href": "https://github.com/guesmi-rania/CareerFlow", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+            {"href": "https://career-flow-topaz.vercel.app", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+        ],
+        "screenshots": [
+            "images/pictures/screenshot-demo-landscape-50.png",
+            "images/pictures/screenshot-demo-landscape-51.png",
+            "images/pictures/screenshot-demo-landscape-52.png",
+            "images/pictures/screenshot-demo-landscape-53.png",
+            "images/pictures/screenshot-demo-landscape-54.png"
+    
+        ],
+        "screenshotsAspectRatio": "16:9",
+        "youtubeVideo": ""
+    },
+    "locales": {
+        "en": {
+            "title": "CareerFlow – Job Application Tracker",
+            "text": "A full-stack <b>job application tracker</b> built with the <b>MERN</b> stack, featuring a drag-and-drop <b>Kanban board</b>, JWT authentication, CV upload, and a live analytics dashboard to track interview response rates.",
+            "tags": ["MERN", "React", "Node.js", "MongoDB", "Full Stack", "Dashboard"]
+        },
+        "es": {
+            "title": "CareerFlow – Seguimiento de Candidaturas",
+            "text": "Una aplicación full-stack de <b>seguimiento de candidaturas</b> desarrollada con <b>MERN</b>, con un tablero <b>Kanban</b> interactivo, autenticación JWT, subida de CV y un panel de estadísticas en tiempo real.",
+            "tags": ["MERN", "React", "Node.js", "MongoDB", "Full Stack", "Dashboard"]
+        },
+        "fr": {
+            "title": "CareerFlow – Suivi de Candidatures",
+            "text": "Une application full-stack de <b>suivi de candidatures</b> développée avec <b>MERN</b>, avec un tableau <b>Kanban</b> en drag-and-drop, une authentification JWT, l'upload de CV et un dashboard d'analyse en temps réel.",
+            "tags": ["MERN", "React", "Node.js", "MongoDB", "Full Stack", "Dashboard"]
+        }
+    }
+}
             ]
         }
     ]
