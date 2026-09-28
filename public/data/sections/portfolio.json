@@ -493,7 +493,7 @@
                 },
                 {
     "id": 12,
-    "categoryId": "category_apps",
+    "categoryId": "category_web",
     "img": "images/pictures/portfolio-project-logo-7.png",
     "faIcon": "",
     "faIconColors": {"bg": "", "fill": ""},
@@ -536,16 +536,15 @@
             {"href": "https://github.com/guesmi-rania/CareerFlow", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
             {"href": "https://career-flow-topaz.vercel.app", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
         ],
-        "screenshots": [
-            "images/pictures/screenshot-demo-landscape-50.png",
-            "images/pictures/screenshot-demo-landscape-51.png",
-            "images/pictures/screenshot-demo-landscape-52.png",
-            "images/pictures/screenshot-demo-landscape-53.png",
-            "images/pictures/screenshot-demo-landscape-54.png"
-    
-        ],
-        "screenshotsAspectRatio": "16:9",
-        "youtubeVideo": ""
+                        "screenshots": [
+                            "images/pictures/screenshot-demo-landscape-50.png",
+                            "images/pictures/screenshot-demo-landscape-51.png",
+                            "images/pictures/screenshot-demo-landscape-52.png",
+                            "images/pictures/screenshot-demo-landscape-53.png",
+                            "images/pictures/screenshot-demo-landscape-54.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9"
+       
     },
     "locales": {
         "en": {
@@ -566,7 +565,7 @@
     }
 },
                 {
-                    "id": 10,
+                    "id": 14,
                     "categoryId": "category_web",
                     "img": "images/pictures/portfolio-project-logo-8.png",
                     "faIcon": "",
