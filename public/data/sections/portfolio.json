@@ -503,7 +503,7 @@
             {"href": "https://guesmi-rania.github.io/signalboard/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
         ],
         "screenshots": [
-            "images/pictures/screenshot-demo-landscape-49.png"
+            "images/pictures/screenshot-demo-landscape-49.PNG"
         ],
         "screenshotsAspectRatio": "16:9"
     },
@@ -537,11 +537,11 @@
             {"href": "https://career-flow-topaz.vercel.app", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
         ],
                         "screenshots": [
-                            "images/pictures/screenshot-demo-landscape-50.png",
-                            "images/pictures/screenshot-demo-landscape-51.png",
-                            "images/pictures/screenshot-demo-landscape-52.png",
-                            "images/pictures/screenshot-demo-landscape-53.png",
-                            "images/pictures/screenshot-demo-landscape-54.png"
+    "images/pictures/screenshot-demo-landscape-50.PNG",
+    "images/pictures/screenshot-demo-landscape-51.PNG",
+    "images/pictures/screenshot-demo-landscape-52.PNG",
+    "images/pictures/screenshot-demo-landscape-53.PNG",
+    "images/pictures/screenshot-demo-landscape-54.PNG"
                         ],
                         "screenshotsAspectRatio": "16:9"
        
