@@ -457,9 +457,9 @@
                 {
                     "id": 11,
                     "categoryId": "category_apps",
-                    "img": "",
-                    "faIcon": "fa-solid fa-cubes",
-                    "faIconColors": {"bg": "#386c8b", "fill": "#EEEEEE"},
+                     "img": "images/pictures/portfolio-project-logo-9.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
                             {"href": "https://github.com/guesmi-rania/Stock_manager", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
