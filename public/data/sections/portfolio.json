@@ -564,7 +564,49 @@
             "tags": ["MERN", "React", "Node.js", "MongoDB", "Full Stack", "Dashboard"]
         }
     }
+},
+                {
+                    "id": 10,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/portfolio-project-logo-8.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/guesmi-rania/BulkBridge", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://bulk-bridge-zhkn.vercel.app", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo-landscape-55.png",
+                            "images/pictures/screenshot-demo-landscape-56.png",
+                            "images/pictures/screenshot-demo-landscape-57.png",
+                            "images/pictures/screenshot-demo-landscape-58.png",
+                            "images/pictures/screenshot-demo-landscape-59.png",
+                            "images/pictures/screenshot-demo-landscape-60.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9"
+                    },
+                    "locales": {
+                      
+                     "en": {
+  "title": "BulkBridge — B2B Wholesale Management Platform",
+  "text": "A full-stack <b>B2B wholesale management platform</b> built with <b>Angular</b>, <b>Node.js</b>, <b>Express.js</b>, and <b>MongoDB</b>. It provides <b>JWT authentication</b>, a B2B product catalog with <b>MOQ and volume-based pricing</b>, shopping cart, order management, and <b>RESTful API</b> integration.",
+  "tags": ["Full-Stack", "B2B", "Angular", "Node.js", "MongoDB"]
+},
+
+"es": {
+  "title": "BulkBridge — Plataforma de Gestión Mayorista B2B",
+  "text": "Una <b>plataforma de gestión mayorista B2B full-stack</b> desarrollada con <b>Angular</b>, <b>Node.js</b>, <b>Express.js</b> y <b>MongoDB</b>. Incluye <b>autenticación JWT</b>, catálogo de productos B2B con <b>MOQ y precios por volumen</b>, carrito de compras, gestión de pedidos e integración con <b>API RESTful</b>.",
+  "tags": ["Full-Stack", "B2B", "Angular", "Node.js", "MongoDB"]
+},
+
+"fr": {
+  "title": "BulkBridge — Plateforme de Gestion de Vente en Gros B2B",
+  "text": "Une <b>plateforme full-stack de gestion de vente en gros B2B</b> développée avec <b>Angular</b>, <b>Node.js</b>, <b>Express.js</b> et <b>MongoDB</b>. Elle intègre une <b>authentification JWT</b>, un catalogue de produits B2B avec <b>MOQ et tarification par volume</b>, un panier, la gestion des commandes et l'intégration d'une <b>API RESTful</b>.",
+  "tags": ["Full-Stack", "B2B", "Angular", "Node.js", "MongoDB"]
 }
+                }          
+                }
             ]
         }
     ]
