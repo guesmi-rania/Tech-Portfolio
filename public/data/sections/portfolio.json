@@ -605,7 +605,79 @@
   "tags": ["Full-Stack", "B2B", "Angular", "Node.js", "MongoDB"]
 }
                 }          
-                }
+                },
+{
+"id": 15,
+"categoryId": "category_web",
+"img": "images/pictures/portfolio-project-logo-10.png",
+"faIcon": "",
+"faIconColors": {
+"bg": "",
+"fill": ""
+},
+"preview": {
+"links": [
+{
+"href": "https://github.com/guesmi-rania/FripMarket",
+"tooltipString": "see_on_github",
+"faIcon": "fa-brands fa-github"
+},
+{
+"href": "https://frip-market.vercel.app",
+"tooltipString": "open_website",
+"faIcon": "fa-solid fa-link"
+}
+],
+"screenshots": [
+"images/pictures/screenshot-demo-landscape-61.png",
+"images/pictures/screenshot-demo-landscape-62.png",
+"images/pictures/screenshot-demo-landscape-63.png",
+"images/pictures/screenshot-demo-landscape-64.png",
+"images/pictures/screenshot-demo-landscape-65.png",
+"images/pictures/screenshot-demo-landscape-66.png",
+"images/pictures/screenshot-demo-landscape-67.png",
+"images/pictures/screenshot-demo-landscape-68.png",
+"images/pictures/screenshot-demo-landscape-69.png"
+],
+"screenshotsAspectRatio": "16:9"
+},
+"locales": {
+"en": {
+"title": "FripMarket — Second-Hand Fashion Marketplace",
+"text": "A full-stack <b>second-hand fashion marketplace</b> built with <b>React</b>, <b>Node.js</b>, <b>Express.js</b>, and <b>MongoDB</b>. It includes <b>JWT authentication</b>, email verification and password reset, product categories, product listings, search and filters, shopping cart, order management, admin dashboard, newsletter subscription, and <b>RESTful API</b> integration.",
+"tags": [
+"Full-Stack",
+"React",
+"Node.js",
+"MongoDB",
+"Express.js"
+]
+},
+"es": {
+"title": "FripMarket — Marketplace de Moda de Segunda Mano",
+"text": "Un <b>marketplace full-stack de moda de segunda mano</b> desarrollado con <b>React</b>, <b>Node.js</b>, <b>Express.js</b> y <b>MongoDB</b>. Incluye <b>autenticación JWT</b>, verificación de correo electrónico y recuperación de contraseña, categorías de productos, búsqueda y filtros, carrito de compras, gestión de pedidos, panel de administración, suscripción al boletín e integración con una <b>API RESTful</b>.",
+"tags": [
+"Full-Stack",
+"React",
+"Node.js",
+"MongoDB",
+"Express.js"
+]
+},
+"fr": {
+"title": "FripMarket — Marketplace de Mode de Seconde Main",
+"text": "Un <b>marketplace full-stack de mode de seconde main</b> développé avec <b>React</b>, <b>Node.js</b>, <b>Express.js</b> et <b>MongoDB</b>. Il intègre une <b>authentification JWT</b>, la vérification de l'adresse email et la réinitialisation du mot de passe, des catégories de produits, la recherche et les filtres, un panier, la gestion des commandes, un tableau de bord administrateur, l'inscription à la newsletter et l'intégration d'une <b>API RESTful</b>.",
+"tags": [
+"Full-Stack",
+"React",
+"Node.js",
+"MongoDB",
+"Express.js"
+]
+}
+}
+}
+
             ]
         }
     ]
