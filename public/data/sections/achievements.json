@@ -62,8 +62,8 @@
                 {
                     "id": 2,
                     "img": "",
-                    "faIcon": "fa-solid fa-microchip-ai",
-                    "faIconColors": {"bg": "#661ed9", "fill": "#ffff"},
+                    "faIcon": "fa-solid fa-robot",
+                    "faIconColors": {"bg": "#661ed9", "fill": "#EEE"},
                     "date": {"year": 2026, "month": 9},
                     "link": {
                         "href": "pdf/certificates/AIFundamentalsFoundations.pdf",
