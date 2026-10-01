@@ -98,15 +98,15 @@
     },
     "locales": {
         "en": {
-            "title": "Simplilearn",
+            "title": "{{Simplilearn}}",
             "text": "Blockchain Certification Training"
         },
         "es": {
-            "title": "Simplilearn",
+            "title": "{{Simplilearn}}",
             "text": "Formación en Certificación de Blockchain"
         },
         "fr": {
-            "title": "Simplilearn",
+            "title": "{{Simplilearn}}",
             "text": "Formation et certification en Blockchain"
         }
     }
