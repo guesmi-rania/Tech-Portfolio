@@ -1,0 +1,88 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Awards",
+                "title_short_nav": "Achievements",
+                "title_long_prefix": "Here are my",
+                "title_long": "Career {{Achievements}}"
+            },
+            "es": {
+                "title_short": "Logros",
+                "title_short_nav": "Logros",
+                "title_long_prefix": "Aquí están mis",
+                "title_long": "{{Logros}} Profesionales"
+            },
+            "fr": {
+                "title_short": "Réalis",
+                "title_short_nav": "Réalisations",
+                "title_long_prefix": "Voici",
+                "title_long": "Mes {{Réalisations}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleCards",
+            "locales": {
+                "en": { "title": "Certifications" },
+                "es": { "title": "Certificaciones" },
+                "fr": { "title": "Certifications" }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-brands fa-python",
+                    "faIconColors": {"bg": "#3776AB", "fill": "#EEE"},
+                    "date": {"year": 2026, "month": 9},
+                    "link": {
+                        "href": "pdf/certificates/python_basic certificate.pdf",
+                        "tooltipString": "see_certification"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{IBM SkillsBuild}}",
+                            "text": "Python (Basic) Certificate"
+                        },
+                        "es": {
+                            "text": "Certificado Python (Basic)"
+                        },
+                        "fr": {
+                            "text": "Certificat Python (Basic)"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "",
+                    "faIcon": "fa-solid fa-brain",
+                    "faIconColors": {"bg": "#0F62FE", "fill": "#EEE"},
+                    "date": {"year": 2026, "month": 9},
+                    "link": {
+                        "href": "pdf/certificates/AIFundamentalsFoundations.pdf",
+                        "tooltipString": "see_certification"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{IBM SkillsBuild}}",
+                            "text": "AI Fundamentals: Foundations for Understanding AI"
+                        },
+                        "es": {
+                            "text": "Fundamentos de IA: Bases para comprender la IA"
+                        },
+                        "fr": {
+                            "text": "Fondamentaux de l'IA : Bases pour comprendre l'IA"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
