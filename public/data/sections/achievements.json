@@ -81,7 +81,36 @@
                             "text": "Fondamentaux de l'IA : Bases pour comprendre l'IA"
                         }
                     }
-                }   
+                },
+            {
+    "id": 3,
+    "img": "",
+    "faIcon": "fa-brands fa-bitcoin",
+    "faIconColors": {
+    "bg": "#85B5F8", "fill": "#EEE"},
+    "date": {
+    "year": 2026,
+    "month": 10
+    },
+    "link": {
+        "href": "pdf/certificates/blockchain-devlope.pdf",
+        "tooltipString": "see_certification"
+    },
+    "locales": {
+        "en": {
+            "title": "Simplilearn",
+            "text": "Blockchain Certification Training"
+        },
+        "es": {
+            "title": "Simplilearn",
+            "text": "Formación en Certificación de Blockchain"
+        },
+        "fr": {
+            "title": "Simplilearn",
+            "text": "Formation et certification en Blockchain"
+        }
+    }
+}
             ]
         }
     ]
